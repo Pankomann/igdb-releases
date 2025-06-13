@@ -26,7 +26,7 @@ jobs:
       - name: Run calendar script
         env:
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
-          TOKEN: ${{ secrets.TOKEN }}
+          TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: python generate_calendar.py
 
       - name: Commit and push updated .ics file

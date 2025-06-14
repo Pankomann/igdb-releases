@@ -39,7 +39,7 @@ https://pankomann.github.io/igdb-releases/igdb_releases.ics
 ### ℹ️ About the Data
 
 This calendar currently adds, removes, updates games based on the following criteria:
-- IGDB **Hypes or Follows** ≥ 5
+- IGDB **Hypes** ≥ 5
 - First release date within **30 days ago to 365 days ahead**
 - Games with no listed platform are still included as `[Undefined]`.
 

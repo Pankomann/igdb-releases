@@ -135,6 +135,7 @@ for game in games:
     existing_events[title] = event
 
 # Save calendar file
+os.makedirs(os.path.dirname(ICS_FILE), exist_ok=True)
 with open(ICS_FILE, "w", encoding="utf-8") as f:
     f.writelines(calendar)
 

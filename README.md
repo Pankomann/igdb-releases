@@ -1,5 +1,7 @@
 # 🎮 IGDB Game Releases Calendar
 
+![image](https://github.com/user-attachments/assets/868ba041-0347-402b-8b91-615d4c9ac817)
+
 Stay up to date with the most popular upcoming and recent video game releases, powered by [IGDB](https://www.igdb.com/).
 
 This calendar is automatically updated **daily** with curated games based on their popularity on IGDB. It includes:

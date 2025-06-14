@@ -9,8 +9,8 @@ This calendar is automatically updated **daily** with curated games based on the
 - Direct links to each game's IGDB page in the description
 
 🗓 **Subscribe to the calendar:**
-You can subscribe using your favorite calendar app by copying this URL: https://pankomann.github.io/igdb-releases/igdb_releases.ics
-
+You can subscribe using your favorite calendar app by copying this URL:
+https://pankomann.github.io/igdb-releases/igdb_releases.ics
 
 ### ✅ How to Subscribe
 
@@ -36,7 +36,7 @@ You can subscribe using your favorite calendar app by copying this URL: https://
 
 ### ℹ️ About the Data
 
-This calendar includes only games that are considered "popular" based on:
+This calendar currently adds, removes, updates games based on the following criteria:
 - IGDB **Hypes or Follows** ≥ 5
 - First release date within **30 days ago to 365 days ahead**
 - Games with no listed platform are still included as `[Undefined]`.

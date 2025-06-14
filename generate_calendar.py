@@ -5,11 +5,11 @@ from ics import Calendar, Event
 
 # Load credentials from environment
 CLIENT_ID = os.environ.get("CLIENT_ID")
-TOKEN = os.environ.get("ACCESS_TOKEN")
+ACCESS_TOKEN = os.environ.get("ACCESS_TOKEN")
 
 HEADERS = {
     "Client-ID": CLIENT_ID,
-    "Authorization": f"Bearer {TOKEN}"
+    "Authorization": f"Bearer {ACCESS_TOKEN}"
 }
 
 ICS_FILE = "docs/igdb_releases.ics"

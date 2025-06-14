@@ -36,7 +36,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/game_releases.ics
+          git add docs/igdb_releases.ics
           git commit -m "🔄 Auto-update calendar"
           git push
         continue-on-error: true  # skip if nothing changed

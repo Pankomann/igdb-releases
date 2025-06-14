@@ -32,9 +32,9 @@ end = int((datetime.datetime.utcnow() + datetime.timedelta(days=365)).timestamp(
 
 # Query IGDB for games filtered by hypes + follows >= 5
 game_query = f"""
-fields name, slug, first_release_date, platforms, hypes, follows;
+fields name, slug, first_release_date, platforms, hypes;
 where first_release_date >= {start} & first_release_date <= {end}
-  & (hypes >= 5 | follows >= 5);
+  & hypes >= 5;
 sort hypes desc;
 limit 500;
 """

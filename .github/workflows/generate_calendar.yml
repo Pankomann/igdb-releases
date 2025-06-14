@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * *'     # runs daily at midnight UTC
   workflow_dispatch:        # allows manual trigger from GitHub interface
 
+permissions:
+  contents: write         # Required to push commits
+
 jobs:
   build:
     runs-on: ubuntu-latest

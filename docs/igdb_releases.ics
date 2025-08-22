@@ -9,16 +9,16 @@ SUMMARY:Nitro Gen Omega [PC (Microsoft Windows)]
 UID:613c8cfc-77d8-4e75-923b-aabf0a3ee467@613c.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250828
-DESCRIPTION:https://www.igdb.com/games/metal-gear-solid-delta-snake-eater
-SUMMARY:Metal Gear Solid Delta: Snake Eater [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:03d2ee84-3e59-4990-a366-674a1dc170ec@03d2.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250818
 DESCRIPTION:https://www.igdb.com/games/stick-it-to-the-stickman
 SUMMARY:Stick It to the Stickman [Linux\, PC (Microsoft Windows)]
 UID:6e0ae16a-78e0-45aa-b817-cb390304e433@6e0a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250828
+DESCRIPTION:https://www.igdb.com/games/metal-gear-solid-delta-snake-eater
+SUMMARY:Metal Gear Solid Delta: Snake Eater [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:03d2ee84-3e59-4990-a366-674a1dc170ec@03d2.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250819
@@ -46,12 +46,6 @@ UID:cfa13b02-7572-4db8-a822-61e57736e6c1@cfa1.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
-DESCRIPTION:https://www.igdb.com/games/hollow-knight-silksong
-SUMMARY:Hollow Knight: Silksong [Linux\, Mac\, Nintendo Switch\, Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
-UID:f96a4606-b2ac-4187-bb42-9180a3db6db9@f96a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251231
 DESCRIPTION:https://www.igdb.com/games/zwaard
 SUMMARY:Zwaard [PC (Microsoft Windows)]
 UID:7ad6c024-01e6-4bbd-be89-b0dc830b00fd@7ad6.org
@@ -63,16 +57,16 @@ SUMMARY:Terminator: Survivors [PC (Microsoft Windows)\, PlayStation 5\, Xbox Ser
 UID:3c6bb6fe-135f-468c-9af8-16986ae66d87@3c6b.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251021
-DESCRIPTION:https://www.igdb.com/games/vampire-the-masquerade-bloodlines-2
-SUMMARY:Vampire: The Masquerade - Bloodlines 2 [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:4f242950-8072-427b-bbb7-e105fd8021fd@4f24.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
 DESCRIPTION:https://www.igdb.com/games/darwins-paradox
 SUMMARY:Darwin's Paradox! [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 UID:67695c75-3ad9-4111-970e-220f2e451d43@6769.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251021
+DESCRIPTION:https://www.igdb.com/games/vampire-the-masquerade-bloodlines-2
+SUMMARY:Vampire: The Masquerade - Bloodlines 2 [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:4f242950-8072-427b-bbb7-e105fd8021fd@4f24.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250731
@@ -81,16 +75,28 @@ SUMMARY:Ninja Gaiden: Ragebound [Nintendo Switch\, PC (Microsoft Windows)\, Play
 UID:49595800-f92b-43da-8c71-e997b5ec6a5d@4959.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250523
-DESCRIPTION:https://www.igdb.com/games/onimusha-2-samurais-destiny--1
-SUMMARY:Onimusha 2: Samurai's Destiny [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4\, Xbox One]
-UID:aea78da1-23cd-4f19-a220-ffd07ebbb097@aea7.org
+DTSTART;VALUE=DATE:20251009
+DESCRIPTION:https://www.igdb.com/games/bye-sweet-carole
+SUMMARY:Bye Sweet Carole [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
+UID:574353eb-2cc8-4154-af98-5018bd4fc28c@5743.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250919
+DESCRIPTION:https://www.igdb.com/games/trails-in-the-sky-1st-chapter
+SUMMARY:Trails in the Sky 1st Chapter [Nintendo Switch\, Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5]
+UID:8a7328a5-7b2e-4b88-aa8e-6ca36291f27d@8a73.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250612
 DESCRIPTION:https://www.igdb.com/games/blasfemia
 SUMMARY:Blasfemia [PC (Microsoft Windows)]
 UID:95fe127a-ccdb-4acf-89e6-2d9eef9b05ce@95fe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250523
+DESCRIPTION:https://www.igdb.com/games/onimusha-2-samurais-destiny--1
+SUMMARY:Onimusha 2: Samurai's Destiny [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4\, Xbox One]
+UID:aea78da1-23cd-4f19-a220-ffd07ebbb097@aea7.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251021
@@ -309,16 +315,10 @@ SUMMARY:Pigface [PC (Microsoft Windows)]
 UID:179db68d-5cfd-4d33-ad52-85bf5230e346@179d.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250814
-DESCRIPTION:https://www.igdb.com/games/warhammer-40000-dawn-of-war-definitive-edition
-SUMMARY:Warhammer 40\,000: Dawn of War - Definitive Edition [PC (Microsoft Windows)]
-UID:6c6556d6-0cb8-4ba4-a1bf-6d9f270730e5@6c65.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250617
-DESCRIPTION:https://www.igdb.com/games/lost-in-random-the-eternal-die
-SUMMARY:Lost in Random: The Eternal Die [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:f985c1d9-778d-40fd-9139-fe7541b895db@f985.org
+DTSTART;VALUE=DATE:20251231
+DESCRIPTION:https://www.igdb.com/games/cuffbust
+SUMMARY:Cuffbust [PC (Microsoft Windows)]
+UID:c01f9278-c6eb-438f-9eac-c8a49245d01f@c01f.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250717
@@ -327,16 +327,22 @@ SUMMARY:Blue Protocol: Star Resonance [Android\, PC (Microsoft Windows)\, iOS]
 UID:3d82550c-30b2-4c0d-a313-84b4619babce@3d82.org
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250617
+DESCRIPTION:https://www.igdb.com/games/lost-in-random-the-eternal-die
+SUMMARY:Lost in Random: The Eternal Die [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:f985c1d9-778d-40fd-9139-fe7541b895db@f985.org
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
 DESCRIPTION:https://www.igdb.com/games/echoes-of-the-living
 SUMMARY:Echoes of the Living [PC (Microsoft Windows)]
 UID:78797b02-d2ea-4ae9-a97e-fc52c61f7dd1@7879.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251231
-DESCRIPTION:https://www.igdb.com/games/cuffbust
-SUMMARY:Cuffbust [PC (Microsoft Windows)]
-UID:c01f9278-c6eb-438f-9eac-c8a49245d01f@c01f.org
+DTSTART;VALUE=DATE:20250814
+DESCRIPTION:https://www.igdb.com/games/warhammer-40000-dawn-of-war-definitive-edition
+SUMMARY:Warhammer 40\,000: Dawn of War - Definitive Edition [PC (Microsoft Windows)]
+UID:6c6556d6-0cb8-4ba4-a1bf-6d9f270730e5@6c65.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
@@ -411,10 +417,10 @@ SUMMARY:Heartworm [PC (Microsoft Windows)]
 UID:721b4444-bc5f-4ec9-a030-c63dae168479@721b.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250908
-DESCRIPTION:https://www.igdb.com/games/baby-steps
-SUMMARY:Baby Steps [PC (Microsoft Windows)\, PlayStation 5]
-UID:b0124f01-2773-43bc-ad5d-5bd38af31f51@b012.org
+DTSTART;VALUE=DATE:20251231
+DESCRIPTION:https://www.igdb.com/games/half-sword
+SUMMARY:Half Sword [PC (Microsoft Windows)]
+UID:748b65ec-a9ad-4180-af91-bff3901561d9@748b.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
@@ -429,10 +435,10 @@ SUMMARY:Aloft [PC (Microsoft Windows)]
 UID:6dc47a37-1109-4644-aeac-20047b0d6723@6dc4.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251231
-DESCRIPTION:https://www.igdb.com/games/half-sword
-SUMMARY:Half Sword [PC (Microsoft Windows)]
-UID:748b65ec-a9ad-4180-af91-bff3901561d9@748b.org
+DTSTART;VALUE=DATE:20250908
+DESCRIPTION:https://www.igdb.com/games/baby-steps
+SUMMARY:Baby Steps [PC (Microsoft Windows)\, PlayStation 5]
+UID:b0124f01-2773-43bc-ad5d-5bd38af31f51@b012.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
@@ -445,6 +451,12 @@ DTSTART;VALUE=DATE:20250925
 DESCRIPTION:https://www.igdb.com/games/sonic-racing-crossworlds
 SUMMARY:Sonic Racing: CrossWorlds [Nintendo Switch\, Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One]
 UID:aefa89fc-8b36-416e-ac13-fb791d635992@aefa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250904
+DESCRIPTION:https://www.igdb.com/games/star-birds
+SUMMARY:Star Birds [PC (Microsoft Windows)]
+UID:5d784362-09cd-4f62-b959-caa527efc95a@5d78.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251114
@@ -549,28 +561,22 @@ SUMMARY:Reanimal [Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, X
 UID:46a4a500-e01e-4d08-973a-e133f57b20dd@46a4.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250919
-DESCRIPTION:https://www.igdb.com/games/trails-in-the-sky-1st-chapter
-SUMMARY:Trails in the Sky 1st Chapter [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 5]
-UID:c6040b4c-27b1-4fe1-abde-cc7a79af0415@c604.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
 DESCRIPTION:https://www.igdb.com/games/projekt-z-beyond-order
 SUMMARY:Projekt Z: Beyond Order [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 UID:cd6f2890-1b3e-4c2b-9969-0446517f71e1@cd6f.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250701
-DESCRIPTION:https://www.igdb.com/games/mecha-break
-SUMMARY:Mecha Break [PC (Microsoft Windows)\, Xbox Series X|S]
-UID:9c8d0174-2949-4943-b858-6f80e90fd0b6@9c8d.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250521
 DESCRIPTION:https://www.igdb.com/games/fantasy-life-i-the-girl-who-steals-time
 SUMMARY:Fantasy Life i: The Girl Who Steals Time [Nintendo Switch\, Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
 UID:921c8336-b029-4709-8b77-8f73a0142f5d@921c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250701
+DESCRIPTION:https://www.igdb.com/games/mecha-break
+SUMMARY:Mecha Break [PC (Microsoft Windows)\, Xbox Series X|S]
+UID:9c8d0174-2949-4943-b858-6f80e90fd0b6@9c8d.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
@@ -615,16 +621,16 @@ SUMMARY:Nyan Heroes [PC (Microsoft Windows)]
 UID:ad4ac8f6-0380-4d1c-8125-3f5e3c5050d2@ad4a.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251231
-DESCRIPTION:https://www.igdb.com/games/sleight-of-hand
-SUMMARY:Sleight of Hand [PC (Microsoft Windows)\, Xbox Series X|S]
-UID:dfe0ce69-8af0-45d2-95aa-819f7579302c@dfe0.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250930
 DESCRIPTION:https://www.igdb.com/games/super-fantasy-kingdom
 SUMMARY:Super Fantasy Kingdom [PC (Microsoft Windows)]
 UID:de1ff480-d663-4ba7-b00e-663609bbde95@de1f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251231
+DESCRIPTION:https://www.igdb.com/games/sleight-of-hand
+SUMMARY:Sleight of Hand [PC (Microsoft Windows)\, Xbox Series X|S]
+UID:dfe0ce69-8af0-45d2-95aa-819f7579302c@dfe0.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
@@ -735,16 +741,16 @@ SUMMARY:Ghost of Yotei [PlayStation 5]
 UID:082342d3-af14-48f6-a122-cf8aab86a97e@0823.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250715
-DESCRIPTION:https://www.igdb.com/games/neverwinter-nights-2-enhanced-edition
-SUMMARY:Neverwinter Nights 2: Enhanced Edition [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:75a332f2-27fd-4b01-a3de-82771fe511bc@75a3.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250930
 DESCRIPTION:https://www.igdb.com/games/silly-polly-beast
 SUMMARY:Silly Polly Beast [PC (Microsoft Windows)]
 UID:987160df-e053-4fc9-9727-64be16ebf6dc@9871.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250715
+DESCRIPTION:https://www.igdb.com/games/neverwinter-nights-2-enhanced-edition
+SUMMARY:Neverwinter Nights 2: Enhanced Edition [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:75a332f2-27fd-4b01-a3de-82771fe511bc@75a3.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
@@ -783,16 +789,16 @@ SUMMARY:Varlet [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 5]
 UID:224012ac-77d7-4844-842a-6bbefd5b7eec@2240.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251114
-DESCRIPTION:https://www.igdb.com/games/call-of-duty-black-ops-7
-SUMMARY:Call of Duty: Black Ops 7 [PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
-UID:654dd82f-6553-4674-950a-1dba101decc4@654d.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251021
 DESCRIPTION:https://www.igdb.com/games/ninja-gaiden-4
 SUMMARY:Ninja Gaiden 4 [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 UID:3204fadb-024a-40ac-b163-bbd3b3115021@3204.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251114
+DESCRIPTION:https://www.igdb.com/games/call-of-duty-black-ops-7
+SUMMARY:Call of Duty: Black Ops 7 [PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
+UID:654dd82f-6553-4674-950a-1dba101decc4@654d.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250604
@@ -835,6 +841,12 @@ DTSTART;VALUE=DATE:20250826
 DESCRIPTION:https://www.igdb.com/games/gears-of-war-reloaded
 SUMMARY:Gears of War: Reloaded [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 UID:ce816ba7-605c-49e1-9bb5-60693bc2d6ec@ce81.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260630
+DESCRIPTION:https://www.igdb.com/games/starsand-island
+SUMMARY:Starsand Island [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:0525f059-1dcf-4553-8992-0d09d4a66642@0525.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251016
@@ -927,6 +939,12 @@ SUMMARY:Nocturnal II [Nintendo Switch\, PC (Microsoft Windows)]
 UID:973ebdb7-98eb-44e1-9ac8-f609eb2d776e@973e.org
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260630
+DESCRIPTION:https://www.igdb.com/games/denshattack
+SUMMARY:Denshattack! [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:4bdb5632-1e0f-49d1-9a5b-5eb49520d4d3@4bdb.org
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251023
 DESCRIPTION:https://www.igdb.com/games/tormented-souls-ii
 SUMMARY:Tormented Souls II [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
@@ -981,6 +999,12 @@ SUMMARY:Broken Arrow [PC (Microsoft Windows)]
 UID:ac5e72b1-4dd0-4c88-b278-dbb32216d239@ac5e.org
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250909
+DESCRIPTION:https://www.igdb.com/games/firefighting-simulator-ignite
+SUMMARY:Firefighting Simulator: Ignite [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:15c09ac9-0da0-4f69-8a12-502fe3dfe6dc@15c0.org
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250717
 DESCRIPTION:https://www.igdb.com/games/donkey-kong-bananza
 SUMMARY:Donkey Kong Bananza [Nintendo Switch\, Nintendo Switch 2]
@@ -993,10 +1017,10 @@ SUMMARY:The Legend of Zelda: Breath of the Wild - Nintendo Switch 2 Edition [Nin
 UID:9aa24971-7a6a-4a57-bcbe-2d61c122db77@9aa2.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251231
-DESCRIPTION:https://www.igdb.com/games/bye-sweet-carole
-SUMMARY:Bye Sweet Carole [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
-UID:5fd7df19-ae5d-47a5-b1db-bed5b5c9d19b@5fd7.org
+DTSTART;VALUE=DATE:20250904
+DESCRIPTION:https://www.igdb.com/games/hollow-knight-silksong
+SUMMARY:Hollow Knight: Silksong [Linux\, Mac\, Nintendo Switch\, Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
+UID:7ae90f38-77b7-4c8e-88c3-2767cbabc7f2@7ae9.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250807
@@ -1143,16 +1167,16 @@ SUMMARY:Arctic Awakening [Mac\, PC (Microsoft Windows)\, PlayStation 4\, PlaySta
 UID:ec765b1a-2bcd-414e-9261-fb24621f65e3@ec76.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250522
-DESCRIPTION:https://www.igdb.com/games/survive-the-fall
-SUMMARY:Survive the Fall [PC (Microsoft Windows)]
-UID:3250e1c8-779d-4586-a278-9e52393f37e2@3250.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
 DESCRIPTION:https://www.igdb.com/games/brokenlore-unfollow--1
 SUMMARY:BrokenLore: Unfollow [PC (Microsoft Windows)\, PlayStation 5]
 UID:e6330d5f-4e67-434c-9a1f-ca9eb08dd144@e633.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250522
+DESCRIPTION:https://www.igdb.com/games/survive-the-fall
+SUMMARY:Survive the Fall [PC (Microsoft Windows)]
+UID:3250e1c8-779d-4586-a278-9e52393f37e2@3250.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250820
@@ -1183,12 +1207,6 @@ DTSTART;VALUE=DATE:20250929
 DESCRIPTION:https://www.igdb.com/games/legends-of-the-round-table
 SUMMARY:Legends of the Round Table [PC (Microsoft Windows)]
 UID:03b2c84d-f5c0-4ab2-8d97-759b53d1e662@03b2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250901
-DESCRIPTION:https://www.igdb.com/games/hotel-barcelona
-SUMMARY:Hotel Barcelona [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:49eedb77-72f0-4d51-936e-f6bfdc261415@49ee.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250717
@@ -1257,6 +1275,12 @@ SUMMARY:Grounded 2 [PC (Microsoft Windows)\, Xbox Series X|S]
 UID:5adfa767-d5f6-45df-bd92-410d0a7eb63a@5adf.org
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260301
+DESCRIPTION:https://www.igdb.com/games/windstorm-the-legend-of-khiimori
+SUMMARY:Windstorm: The Legend of Khiimori [PC (Microsoft Windows)\, PlayStation 5]
+UID:d8753ba6-8b3e-4e2f-b6ba-1311951282c7@d875.org
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250901
 DESCRIPTION:https://www.igdb.com/games/bad-cheese
 SUMMARY:Bad Cheese [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
@@ -1269,16 +1293,16 @@ SUMMARY:Mistfall Hunter [PC (Microsoft Windows)\, Xbox Series X|S]
 UID:d2f9aee8-cb6c-44d2-9f19-d498242a3d0d@d2f9.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251021
-DESCRIPTION:https://www.igdb.com/games/jurassic-world-evolution-3
-SUMMARY:Jurassic World Evolution 3 [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:f7e3d5d2-5971-4d52-9eb7-4e53112ac142@f7e3.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251023
 DESCRIPTION:https://www.igdb.com/games/double-dragon-revive
 SUMMARY:Double Dragon Revive [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
 UID:1642a178-8f59-4df9-80b4-b0dda685a2ad@1642.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251021
+DESCRIPTION:https://www.igdb.com/games/jurassic-world-evolution-3
+SUMMARY:Jurassic World Evolution 3 [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:f7e3d5d2-5971-4d52-9eb7-4e53112ac142@f7e3.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
@@ -1329,16 +1353,16 @@ SUMMARY:Shinobi: Art of Vengeance [Nintendo Switch\, PC (Microsoft Windows)\, Pl
 UID:f332e5b9-197e-47fe-aa85-5d60ff489841@f332.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250619
-DESCRIPTION:https://www.igdb.com/games/vessels-of-decay
-SUMMARY:Vessels of Decay [Linux\, Mac\, Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
-UID:28ed4d5f-4913-4144-9975-e6dbf4d03dd0@28ed.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
 DESCRIPTION:https://www.igdb.com/games/one-move-away
 SUMMARY:One Move Away [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 UID:7cf0dcb4-7ffa-4bd2-bddb-f692e84342d3@7cf0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250619
+DESCRIPTION:https://www.igdb.com/games/vessels-of-decay
+SUMMARY:Vessels of Decay [Linux\, Mac\, Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
+UID:28ed4d5f-4913-4144-9975-e6dbf4d03dd0@28ed.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250930
@@ -1365,10 +1389,10 @@ SUMMARY:Wander Stars [Nintendo Switch\, PC (Microsoft Windows)]
 UID:98837fd9-fc93-4385-b73c-dfa6da6d6f83@9883.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251231
-DESCRIPTION:https://www.igdb.com/games/the-house-of-tesla
-SUMMARY:The House of Tesla [PC (Microsoft Windows)]
-UID:ad103eb1-d04f-4b7c-94a9-824b12746cbb@ad10.org
+DTSTART;VALUE=DATE:20250814
+DESCRIPTION:https://www.igdb.com/games/midnight-murder-club
+SUMMARY:Midnight Murder Club [PC (Microsoft Windows)\, PlayStation 5]
+UID:7ad257ab-70a8-4907-8b21-37184d758958@7ad2.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
@@ -1377,10 +1401,10 @@ SUMMARY:Eclipsium [PC (Microsoft Windows)]
 UID:78bf6417-5385-46ae-b50f-d219a705791f@78bf.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250814
-DESCRIPTION:https://www.igdb.com/games/midnight-murder-club
-SUMMARY:Midnight Murder Club [PC (Microsoft Windows)\, PlayStation 5]
-UID:7ad257ab-70a8-4907-8b21-37184d758958@7ad2.org
+DTSTART;VALUE=DATE:20251231
+DESCRIPTION:https://www.igdb.com/games/the-house-of-tesla
+SUMMARY:The House of Tesla [PC (Microsoft Windows)]
+UID:ad103eb1-d04f-4b7c-94a9-824b12746cbb@ad10.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
@@ -1443,6 +1467,12 @@ SUMMARY:Neon Inferno [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4\,
 UID:e1c32811-364f-4413-b0a3-3ddc58731318@e1c3.org
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250918
+DESCRIPTION:https://www.igdb.com/games/formula-legends
+SUMMARY:Formula Legends [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
+UID:e89dfa65-dd2d-473a-b5f7-a507e6162c26@e89d.org
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251030
 DESCRIPTION:https://www.igdb.com/games/dragon-quest-i-and-ii-hd-2d-remake
 SUMMARY:Dragon Quest I & II: HD-2D Remake [Nintendo Switch\, Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
@@ -1455,28 +1485,28 @@ SUMMARY:Ball x Pit [Nintendo Switch\, Nintendo Switch 2\, PC (Microsoft Windows)
 UID:fbe9dc87-50f4-4740-a099-0bdff5c905e1@fbe9.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250930
-DESCRIPTION:https://www.igdb.com/games/lego-party
-SUMMARY:LEGO Party! [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
-UID:521c6ad8-59c3-4ca2-b0b7-216daf05ca7a@521c.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250919
 DESCRIPTION:https://www.igdb.com/games/towa-and-the-guardians-of-the-sacred-tree
 SUMMARY:Towa and the Guardians of the Sacred Tree [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 UID:152f1066-8758-4555-a05d-b1ce428de75e@152f.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250724
-DESCRIPTION:https://www.igdb.com/games/killing-floor-iii
-SUMMARY:Killing Floor III [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:ac232e85-a0ca-46fe-8c1c-6bc8f7c55d5f@ac23.org
+DTSTART;VALUE=DATE:20250930
+DESCRIPTION:https://www.igdb.com/games/lego-party
+SUMMARY:LEGO Party! [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
+UID:521c6ad8-59c3-4ca2-b0b7-216daf05ca7a@521c.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250621
 DESCRIPTION:https://www.igdb.com/games/bitcraft
 SUMMARY:BitCraft [Mac\, PC (Microsoft Windows)]
 UID:096a2661-4354-4d45-a871-4b50eedc73b7@096a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250724
+DESCRIPTION:https://www.igdb.com/games/killing-floor-iii
+SUMMARY:Killing Floor III [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:ac232e85-a0ca-46fe-8c1c-6bc8f7c55d5f@ac23.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
@@ -1533,16 +1563,22 @@ SUMMARY:Panzerkampf [PC (Microsoft Windows)]
 UID:eeee0a5d-37f0-4513-a3bb-e148fa5a7a08@eeee.org
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250905
+DESCRIPTION:https://www.igdb.com/games/cronos-the-new-dawn
+SUMMARY:Cronos: The New Dawn [Mac\, Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:feff2235-3c8c-48ca-acdd-2c4d08650cfb@feff.org
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250619
 DESCRIPTION:https://www.igdb.com/games/robots-at-midnight
 SUMMARY:Robots at Midnight [PC (Microsoft Windows)\, Xbox Series X|S]
 UID:0f914b86-d655-4b58-9c46-3cad05a6e5bb@0f91.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250905
-DESCRIPTION:https://www.igdb.com/games/cronos-the-new-dawn
-SUMMARY:Cronos: The New Dawn [Mac\, Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:feff2235-3c8c-48ca-acdd-2c4d08650cfb@feff.org
+DTSTART;VALUE=DATE:20251104
+DESCRIPTION:https://www.igdb.com/games/europa-universalis-v
+SUMMARY:Europa Universalis V [PC (Microsoft Windows)]
+UID:a4916f08-3b74-4bb1-bf2b-a08e19c4dd87@a491.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250623
@@ -1762,15 +1798,15 @@ UID:9d99386c-b6e4-48ae-8116-5c1e9c1a6e3f@9d99.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
-DESCRIPTION:https://www.igdb.com/games/permafrost--1
-SUMMARY:Permafrost [PC (Microsoft Windows)\, PlayStation 5]
-UID:c0519051-aa34-4461-abe9-efaba819ed57@c051.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251231
 DESCRIPTION:https://www.igdb.com/games/mixtape--1
 SUMMARY:Mixtape [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 UID:ab66a880-4e1f-4ce8-8bcf-d911e819b200@ab66.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251231
+DESCRIPTION:https://www.igdb.com/games/permafrost--1
+SUMMARY:Permafrost [PC (Microsoft Windows)\, PlayStation 5]
+UID:c0519051-aa34-4461-abe9-efaba819ed57@c051.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250930
@@ -1863,16 +1899,16 @@ SUMMARY:Atelier Resleriana: The Red Alchemist & the White Guardian [Nintendo Swi
 UID:ca6afc1a-63b7-462f-9272-b7c2ef38d46e@ca6a.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251118
-DESCRIPTION:https://www.igdb.com/games/spongebob-squarepants-titans-of-the-tide
-SUMMARY:SpongeBob SquarePants: Titans of the Tide [Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:73a63cae-1e0a-4beb-b20d-00524fd6d8e7@73a6.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250715
 DESCRIPTION:https://www.igdb.com/games/eriksholm-the-stolen-dream
 SUMMARY:Eriksholm: The Stolen Dream [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 UID:cbe68c63-e9b4-4a7b-8f90-4acdb9881741@cbe6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251118
+DESCRIPTION:https://www.igdb.com/games/spongebob-squarepants-titans-of-the-tide
+SUMMARY:SpongeBob SquarePants: Titans of the Tide [Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:73a63cae-1e0a-4beb-b20d-00524fd6d8e7@73a6.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
@@ -1893,28 +1929,28 @@ SUMMARY:Ritual Tides [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 UID:fc28f2f6-72bd-4f0a-8470-3c503bf3a0fa@fc28.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250715
-DESCRIPTION:https://www.igdb.com/games/the-explorator
-SUMMARY:The Explorator [PC (Microsoft Windows)\, Xbox One\, Xbox Series X|S]
-UID:83fe12c6-6ecf-4924-a923-df76d0962fbf@83fe.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251030
 DESCRIPTION:https://www.igdb.com/games/arc-raiders
 SUMMARY:ARC Raiders [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 UID:0fa2bbf0-2148-4783-8d85-b0f7eb0e103b@0fa2.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251231
-DESCRIPTION:https://www.igdb.com/games/streets-of-rogue-2
-SUMMARY:Streets of Rogue 2 [Linux\, Mac\, Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
-UID:099fc3b0-050b-4c6c-b7e4-969dc4bee106@099f.org
+DTSTART;VALUE=DATE:20250715
+DESCRIPTION:https://www.igdb.com/games/the-explorator
+SUMMARY:The Explorator [PC (Microsoft Windows)\, Xbox One\, Xbox Series X|S]
+UID:83fe12c6-6ecf-4924-a923-df76d0962fbf@83fe.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250901
 DESCRIPTION:https://www.igdb.com/games/fata-deum
 SUMMARY:Fata Deum [PC (Microsoft Windows)]
 UID:802175fe-f845-4b97-9e7f-4ba0d5630a28@8021.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251231
+DESCRIPTION:https://www.igdb.com/games/streets-of-rogue-2
+SUMMARY:Streets of Rogue 2 [Linux\, Mac\, Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
+UID:099fc3b0-050b-4c6c-b7e4-969dc4bee106@099f.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250827
@@ -1977,6 +2013,12 @@ SUMMARY:Donkey Kong: Bananza [Nintendo Switch 2]
 UID:e5d7ee6d-70e7-4309-9e42-b222975c4a02@e5d7.org
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251023
+DESCRIPTION:https://www.igdb.com/games/bounty-star
+SUMMARY:Bounty Star [PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
+UID:5cb0f5c2-285d-408f-b637-ef1688cce3fb@5cb0.org
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
 DESCRIPTION:https://www.igdb.com/games/industria-ii
 SUMMARY:Industria II [PC (Microsoft Windows)]
@@ -1989,16 +2031,16 @@ SUMMARY:Marvel 1943: Rise of Hydra [PC (Microsoft Windows)\, PlayStation 5\, Xbo
 UID:4cbc61e5-4945-40fa-b26d-78a4b9534fb4@4cbc.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250724
-DESCRIPTION:https://www.igdb.com/games/hotel-galactic
-SUMMARY:Hotel Galactic [PC (Microsoft Windows)]
-UID:224c4eff-9a59-4513-bc96-bcb1ab243a6e@224c.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250605
 DESCRIPTION:https://www.igdb.com/games/yakuza-0-directors-cut
 SUMMARY:Yakuza 0: Director's Cut [Nintendo Switch 2]
 UID:4c6ce30a-3773-4041-a514-df25053770b5@4c6c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250724
+DESCRIPTION:https://www.igdb.com/games/hotel-galactic
+SUMMARY:Hotel Galactic [PC (Microsoft Windows)]
+UID:224c4eff-9a59-4513-bc96-bcb1ab243a6e@224c.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250530
@@ -2013,10 +2055,10 @@ SUMMARY:Once Upon a Katamari [Nintendo Switch\, PC (Microsoft Windows)\, PlaySta
 UID:15525f09-f388-4645-b9e6-6b88d5ca780f@1552.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251124
-DESCRIPTION:https://www.igdb.com/games/constance--1
-SUMMARY:Constance [Nintendo Switch\, Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:c95b08fe-23aa-415c-b6e6-97615a49c195@c95b.org
+DTSTART;VALUE=DATE:20250925
+DESCRIPTION:https://www.igdb.com/games/consume-me
+SUMMARY:Consume Me [Mac\, PC (Microsoft Windows)]
+UID:cadd89b6-ef25-43d7-bc35-0328beefa54f@cadd.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
@@ -2025,10 +2067,10 @@ SUMMARY:Lost Hellden [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4\,
 UID:f8776aff-c676-42a9-a69c-3d948725221b@f877.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250925
-DESCRIPTION:https://www.igdb.com/games/consume-me
-SUMMARY:Consume Me [Mac\, PC (Microsoft Windows)]
-UID:cadd89b6-ef25-43d7-bc35-0328beefa54f@cadd.org
+DTSTART;VALUE=DATE:20251124
+DESCRIPTION:https://www.igdb.com/games/constance--1
+SUMMARY:Constance [Nintendo Switch\, Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:c95b08fe-23aa-415c-b6e6-97615a49c195@c95b.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250814
@@ -2079,22 +2121,16 @@ SUMMARY:Nivalis [PC (Microsoft Windows)]
 UID:d0c53d54-a5c8-44ab-b233-d4bff8128095@d0c5.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250918
-DESCRIPTION:https://www.igdb.com/games/formula-legends
-SUMMARY:Formula Legends [PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
-UID:5fbdce07-e1e9-4635-8d38-5e1db5cdae6d@5fbd.org
+DTSTART;VALUE=DATE:20251231
+DESCRIPTION:https://www.igdb.com/games/they-are-here-alien-abduction-horror
+SUMMARY:They Are Here: Alien Abduction Horror [PC (Microsoft Windows)]
+UID:06f854ab-5885-435b-a3c2-fa0b4c73ab91@06f8.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250703
 DESCRIPTION:https://www.igdb.com/games/shatterline
 SUMMARY:Shatterline [PC (Microsoft Windows)]
 UID:3134196c-8d73-423f-b042-9f9b12a45b15@3134.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251231
-DESCRIPTION:https://www.igdb.com/games/they-are-here-alien-abduction-horror
-SUMMARY:They Are Here: Alien Abduction Horror [PC (Microsoft Windows)]
-UID:06f854ab-5885-435b-a3c2-fa0b4c73ab91@06f8.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250717
@@ -2134,12 +2170,6 @@ UID:9cc55411-416c-4b17-bd8d-d4bfd4245b93@9cc5.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
-DESCRIPTION:https://www.igdb.com/games/star-birds
-SUMMARY:Star Birds [PC (Microsoft Windows)]
-UID:c550bac8-c3ab-4d8b-a224-b3ea2327088f@c550.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251231
 DESCRIPTION:https://www.igdb.com/games/tears-of-metal
 SUMMARY:Tears of Metal [PC (Microsoft Windows)]
 UID:623d4f95-1d57-446b-8ce3-33999145f034@623d.org
@@ -2157,16 +2187,16 @@ SUMMARY:Morsels [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 5\, Xbox
 UID:73f26175-5571-480b-99c8-7101f4583a39@73f2.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251231
-DESCRIPTION:https://www.igdb.com/games/the-ranchers
-SUMMARY:The Ranchers [Linux\, Mac\, PC (Microsoft Windows)]
-UID:e7b6569f-2474-4a12-94c6-1c69ddca64cb@e7b6.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250916
 DESCRIPTION:https://www.igdb.com/games/henry-halfhead
 SUMMARY:Henry Halfhead [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 5]
 UID:434f672b-64d1-4214-a1c7-aa5bce4cf353@434f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251231
+DESCRIPTION:https://www.igdb.com/games/the-ranchers
+SUMMARY:The Ranchers [Linux\, Mac\, PC (Microsoft Windows)]
+UID:e7b6569f-2474-4a12-94c6-1c69ddca64cb@e7b6.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250728
@@ -2229,16 +2259,16 @@ SUMMARY:Lords of Ravage [Linux\, Nintendo Switch\, PC (Microsoft Windows)\, Play
 UID:7cc3d9be-927d-409e-8cdf-a35f9d85dac6@7cc3.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250815
-DESCRIPTION:https://www.igdb.com/games/off--1
-SUMMARY:Off [Nintendo Switch\, PC (Microsoft Windows)]
-UID:23d25b8b-e633-422d-99de-94bf54238781@23d2.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260331
 DESCRIPTION:https://www.igdb.com/games/battlestar-galactica-scattered-hopes
 SUMMARY:Battlestar Galactica: Scattered Hopes [PC (Microsoft Windows)]
 UID:81278b0c-d903-4746-bad4-9b1ab4e729c0@8127.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250815
+DESCRIPTION:https://www.igdb.com/games/off--1
+SUMMARY:Off [Nintendo Switch\, PC (Microsoft Windows)]
+UID:23d25b8b-e633-422d-99de-94bf54238781@23d2.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250724
@@ -2311,6 +2341,12 @@ DTSTART;VALUE=DATE:20251231
 DESCRIPTION:https://www.igdb.com/games/opus-prism-peak
 SUMMARY:Opus: Prism Peak [Mac\, Nintendo Switch\, Nintendo Switch 2\, PC (Microsoft Windows)]
 UID:59d44869-2722-43e5-a7e1-36f3afb567bb@59d4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250926
+DESCRIPTION:https://www.igdb.com/games/hotel-barcelona
+SUMMARY:Hotel Barcelona [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:edee85b5-ad35-4420-954f-692510357fc7@edee.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250630

@@ -3,7 +3,6 @@ import requests
 import datetime
 from collections import defaultdict
 from ics import Calendar, Event
-from dotenv import load_dotenv
 
 # Load credentials from environment
 CLIENT_ID = os.environ.get("CLIENT_ID")
@@ -168,4 +167,5 @@ with open(ICS_FILE, "w", encoding="utf-8") as f:
 
 print(f"✔️ Calendar saved to {ICS_FILE}")
 print(f"➕ {added} new events added")
+
 print(f"� {updated} existing events updated")

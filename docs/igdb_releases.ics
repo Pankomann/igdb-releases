@@ -33,10 +33,10 @@ SUMMARY:Windstorm: The Legend of Khiimori (Early Access) [PC (Microsoft Windows)
 UID:fd4aa512-b7ac-44e5-9da6-1c658d5eeb94@fd4a.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251106
-DESCRIPTION:https://www.igdb.com/games/hyrule-warriors-age-of-imprisonment
-SUMMARY:Hyrule Warriors: Age of Imprisonment (Full Release) [Nintendo Switch 2]
-UID:7bb816e2-d360-42b4-acf7-082cb66798ad@7bb8.org
+DTSTART;VALUE=DATE:20250910
+DESCRIPTION:https://www.igdb.com/games/katanaut
+SUMMARY:Katanaut (Full Release) [PC (Microsoft Windows)]
+UID:815d328d-85f2-4897-b04d-0e518f80dbbf@815d.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250827
@@ -45,10 +45,10 @@ SUMMARY:Varlet (Full Release) [Nintendo Switch\, PC (Microsoft Windows)\, PlaySt
 UID:16ef93b5-8af7-4476-bc15-c748d3c6cc96@16ef.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250910
-DESCRIPTION:https://www.igdb.com/games/katanaut
-SUMMARY:Katanaut (Full Release) [PC (Microsoft Windows)]
-UID:815d328d-85f2-4897-b04d-0e518f80dbbf@815d.org
+DTSTART;VALUE=DATE:20251106
+DESCRIPTION:https://www.igdb.com/games/hyrule-warriors-age-of-imprisonment
+SUMMARY:Hyrule Warriors: Age of Imprisonment (Full Release) [Nintendo Switch 2]
+UID:7bb816e2-d360-42b4-acf7-082cb66798ad@7bb8.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250904
@@ -57,10 +57,10 @@ SUMMARY:Hollow Knight: Silksong (Full Release) [Linux\, Mac\, Nintendo Switch\, 
 UID:6078db3b-55cf-4e7e-bebb-0830be40b056@6078.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260224
-DESCRIPTION:https://www.igdb.com/games/tides-of-tomorrow
-SUMMARY:Tides of Tomorrow (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:bf0af241-5bbf-4c3a-adb1-dabea5d94d47@bf0a.org
+DTSTART;VALUE=DATE:20250923
+DESCRIPTION:https://www.igdb.com/games/the-house-of-tesla
+SUMMARY:The House of Tesla (Full Release) [PC (Microsoft Windows)]
+UID:102cda38-4f24-4001-aac2-68fde9acc494@102c.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250926
@@ -69,16 +69,10 @@ SUMMARY:Cloverpit (Full Release) [PC (Microsoft Windows)]
 UID:af0d1bf8-1cf0-4b3f-a62a-c512e037cfe9@af0d.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250923
-DESCRIPTION:https://www.igdb.com/games/the-house-of-tesla
-SUMMARY:The House of Tesla (Full Release) [PC (Microsoft Windows)]
-UID:102cda38-4f24-4001-aac2-68fde9acc494@102c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251009
-DESCRIPTION:https://www.igdb.com/games/yooka-replaylee
-SUMMARY:Yooka-Replaylee (Full Release) [Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:aa97fa47-814c-4eb0-8980-d9a2edd09389@aa97.org
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:https://www.igdb.com/games/tides-of-tomorrow
+SUMMARY:Tides of Tomorrow (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:bf0af241-5bbf-4c3a-adb1-dabea5d94d47@bf0a.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250911
@@ -87,10 +81,16 @@ SUMMARY:Dead Reset (Full Release) [Android\, Mac\, Nintendo Switch\, PC (Microso
 UID:e779bdc2-e188-4532-87de-5baa7ee9b3b1@e779.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260327
-DESCRIPTION:https://www.igdb.com/games/007-first-light
-SUMMARY:007: First Light (Full Release) [Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:57b4c55f-43ce-420f-9499-4f2682cacc20@57b4.org
+DTSTART;VALUE=DATE:20251009
+DESCRIPTION:https://www.igdb.com/games/yooka-replaylee
+SUMMARY:Yooka-Replaylee (Full Release) [Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:aa97fa47-814c-4eb0-8980-d9a2edd09389@aa97.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251031
+DESCRIPTION:https://www.igdb.com/games/terminator-2d-no-fate
+SUMMARY:Terminator 2D: No Fate (Full Release) [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
+UID:dc587f01-d2a5-4c11-b5e4-abe7fe7bab6a@dc58.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240508
@@ -99,10 +99,10 @@ SUMMARY:Arena Breakout: Infinite (Beta) [PC (Microsoft Windows)]
 UID:a8cc9e87-035b-40d0-9428-ac98c9a84c38@a8cc.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251031
-DESCRIPTION:https://www.igdb.com/games/terminator-2d-no-fate
-SUMMARY:Terminator 2D: No Fate (Full Release) [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
-UID:dc587f01-d2a5-4c11-b5e4-abe7fe7bab6a@dc58.org
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:https://www.igdb.com/games/007-first-light
+SUMMARY:007: First Light (Full Release) [Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:57b4c55f-43ce-420f-9499-4f2682cacc20@57b4.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251031
@@ -160,9 +160,9 @@ UID:37aaec5b-ba19-4f7d-aa69-3cba270696e3@37aa.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
-DESCRIPTION:https://www.igdb.com/games/bylina
-SUMMARY:Bylina (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:61c01b2a-45ad-4a3a-bda4-0b633d0554c3@61c0.org
+DESCRIPTION:https://www.igdb.com/games/mouse-pi-for-hire--1
+SUMMARY:Mouse: P.I. For Hire (Full Release) [Nintendo Switch\, Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
+UID:9b42094b-01ab-4d2e-a3ae-a4c5826812ca@9b42.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240820
@@ -184,9 +184,9 @@ UID:560c96c8-8489-4cc0-b446-3f80d62bc998@560c.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
-DESCRIPTION:https://www.igdb.com/games/mouse-pi-for-hire--1
-SUMMARY:Mouse: P.I. For Hire (Full Release) [Nintendo Switch\, Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
-UID:9b42094b-01ab-4d2e-a3ae-a4c5826812ca@9b42.org
+DESCRIPTION:https://www.igdb.com/games/bylina
+SUMMARY:Bylina (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:61c01b2a-45ad-4a3a-bda4-0b633d0554c3@61c0.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251124
@@ -195,16 +195,16 @@ SUMMARY:Constance (Full Release) [PC (Microsoft Windows)]
 UID:008c67e3-3e2f-454b-88de-5e6b50c50298@008c.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250925
-DESCRIPTION:https://www.igdb.com/games/agatha-christie-death-on-the-nile--1
-SUMMARY:Agatha Christie: Death on the Nile (Full Release) [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:c65c4acd-55d1-4348-ba5a-a55b2301d584@c65c.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
 DESCRIPTION:https://www.igdb.com/games/lorn-vale
 SUMMARY:Lorn Vale (Full Release) [PC (Microsoft Windows)]
 UID:a5961159-93dd-4958-9551-75219677599b@a596.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250925
+DESCRIPTION:https://www.igdb.com/games/agatha-christie-death-on-the-nile--1
+SUMMARY:Agatha Christie: Death on the Nile (Full Release) [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:c65c4acd-55d1-4348-ba5a-a55b2301d584@c65c.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
@@ -255,16 +255,10 @@ SUMMARY:Firefighting Simulator: Ignite (Full Release) [PC (Microsoft Windows)\, 
 UID:83f1feae-11c3-43d6-be5c-b538ebc15330@83f1.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251204
-DESCRIPTION:https://www.igdb.com/games/octopath-traveler-0
-SUMMARY:Octopath Traveler 0 (Full Release) [Nintendo Switch\, Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox Series X|S]
-UID:bb5b74d3-fb2f-4a73-b5fc-d504c9e1623a@bb5b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250915
-DESCRIPTION:https://www.igdb.com/games/no-im-not-a-human
-SUMMARY:No\, I'm Not A Human (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:56c59be9-4f24-41d1-8549-1b066ec38b78@56c5.org
+DTSTART;VALUE=DATE:20250905
+DESCRIPTION:https://www.igdb.com/games/shuten-order
+SUMMARY:Shuten Order (Full Release) [PC (Microsoft Windows)]
+UID:6d203fa5-4a32-46a3-bca3-c391823ff008@6d20.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250829
@@ -273,10 +267,16 @@ SUMMARY:Shinobi: Art of Vengeance (Full Release) [Nintendo Switch\, PC (Microsof
 UID:e89658b5-0a3d-4227-a546-5666b93d6c89@e896.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250905
-DESCRIPTION:https://www.igdb.com/games/shuten-order
-SUMMARY:Shuten Order (Full Release) [PC (Microsoft Windows)]
-UID:6d203fa5-4a32-46a3-bca3-c391823ff008@6d20.org
+DTSTART;VALUE=DATE:20250915
+DESCRIPTION:https://www.igdb.com/games/no-im-not-a-human
+SUMMARY:No\, I'm Not A Human (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:56c59be9-4f24-41d1-8549-1b066ec38b78@56c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251204
+DESCRIPTION:https://www.igdb.com/games/octopath-traveler-0
+SUMMARY:Octopath Traveler 0 (Full Release) [Nintendo Switch\, Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox Series X|S]
+UID:bb5b74d3-fb2f-4a73-b5fc-d504c9e1623a@bb5b.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250919
@@ -315,10 +315,10 @@ SUMMARY:The Joy of Creation (Full Release) [PC (Microsoft Windows)]
 UID:fba3aab4-18c3-4045-9ee2-9b45cfd9428a@fba3.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251231
-DESCRIPTION:https://www.igdb.com/games/polyaris
-SUMMARY:Polyaris (Full Release) [PC (Microsoft Windows)]
-UID:0c71051f-2985-4b4c-9d75-b98d62575bc1@0c71.org
+DTSTART;VALUE=DATE:20251010
+DESCRIPTION:https://www.igdb.com/games/battlefield-6
+SUMMARY:Battlefield 6 (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:e80e7fbb-b105-402c-9583-145e0aa02bbf@e80e.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240920
@@ -333,10 +333,10 @@ SUMMARY:Town to City (Early Access) [PC (Microsoft Windows)]
 UID:27ae4a82-6969-475f-a5a0-9ddfe67889d4@27ae.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251010
-DESCRIPTION:https://www.igdb.com/games/battlefield-6
-SUMMARY:Battlefield 6 (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:e80e7fbb-b105-402c-9583-145e0aa02bbf@e80e.org
+DTSTART;VALUE=DATE:20251231
+DESCRIPTION:https://www.igdb.com/games/polyaris
+SUMMARY:Polyaris (Full Release) [PC (Microsoft Windows)]
+UID:0c71051f-2985-4b4c-9d75-b98d62575bc1@0c71.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
@@ -351,16 +351,10 @@ SUMMARY:Super Meat Boy 3D (Full Release) [PC (Microsoft Windows)\, PlayStation 5
 UID:3c04b5fa-ed5e-4f6c-a0c3-7b997999eaef@3c04.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251231
-DESCRIPTION:https://www.igdb.com/games/opus-prism-peak
-SUMMARY:Opus: Prism Peak (Full Release) [Mac\, Nintendo Switch\, Nintendo Switch 2\, PC (Microsoft Windows)]
-UID:3e121d46-6bf0-410e-a740-d7b0113eb4e2@3e12.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250916
-DESCRIPTION:https://www.igdb.com/games/voyagers-of-nera
-SUMMARY:Voyagers of Nera (Early Access) [PC (Microsoft Windows)]
-UID:6a01a1c9-05c7-4c5c-84fa-6951e5ffb8ca@6a01.org
+DTSTART;VALUE=DATE:20250917
+DESCRIPTION:https://www.igdb.com/games/strange-antiquities
+SUMMARY:Strange Antiquities (Full Release) [Nintendo Switch\, PC (Microsoft Windows)]
+UID:1d9d13ef-8507-41de-b85a-9e4480bc0733@1d9d.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240718
@@ -369,10 +363,16 @@ SUMMARY:Inazuma Eleven: Victory Road (Beta) [PC (Microsoft Windows)\, PlayStatio
 UID:f5b0dca5-4288-4a4e-b8c3-a4fb2937f70f@f5b0.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250917
-DESCRIPTION:https://www.igdb.com/games/strange-antiquities
-SUMMARY:Strange Antiquities (Full Release) [Nintendo Switch\, PC (Microsoft Windows)]
-UID:1d9d13ef-8507-41de-b85a-9e4480bc0733@1d9d.org
+DTSTART;VALUE=DATE:20250916
+DESCRIPTION:https://www.igdb.com/games/voyagers-of-nera
+SUMMARY:Voyagers of Nera (Early Access) [PC (Microsoft Windows)]
+UID:6a01a1c9-05c7-4c5c-84fa-6951e5ffb8ca@6a01.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251231
+DESCRIPTION:https://www.igdb.com/games/opus-prism-peak
+SUMMARY:Opus: Prism Peak (Full Release) [Mac\, Nintendo Switch\, Nintendo Switch 2\, PC (Microsoft Windows)]
+UID:3e121d46-6bf0-410e-a740-d7b0113eb4e2@3e12.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250919
@@ -381,16 +381,10 @@ SUMMARY:Trails in the Sky 1st Chapter (Full Release) [Nintendo Switch\, Nintendo
 UID:08589792-3048-42ad-bb89-7d94d94fa8ba@0858.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250925
-DESCRIPTION:https://www.igdb.com/games/ayasa-shadows-of-silence
-SUMMARY:Ayasa: Shadows of Silence (Full Release) [Linux\, PC (Microsoft Windows)]
-UID:60323f37-6d68-49d7-aa1f-fd60c5acf6e5@6032.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260630
-DESCRIPTION:https://www.igdb.com/games/yoshi-and-the-mysterious-book
-SUMMARY:Yoshi and the Mysterious Book (Full Release) [Nintendo Switch 2]
-UID:85060d38-a394-474e-ac3b-8e48e7ac5db1@8506.org
+DTSTART;VALUE=DATE:20251204
+DESCRIPTION:https://www.igdb.com/games/toxic-crusaders--4
+SUMMARY:Toxic Crusaders (Full Release) [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
+UID:dd247b4b-83d7-4294-99a8-5928920706c8@dd24.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
@@ -399,16 +393,22 @@ SUMMARY:Permafrost (Full Release) [PC (Microsoft Windows)]
 UID:4ed66ad4-1ed5-4114-b495-3eb2a1e569a2@4ed6.org
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260630
+DESCRIPTION:https://www.igdb.com/games/yoshi-and-the-mysterious-book
+SUMMARY:Yoshi and the Mysterious Book (Full Release) [Nintendo Switch 2]
+UID:85060d38-a394-474e-ac3b-8e48e7ac5db1@8506.org
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251107
 DESCRIPTION:https://www.igdb.com/games/i-hate-this-place
 SUMMARY:I Hate this Place (Full Release) [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 UID:3980c058-1082-42ca-b3a0-6e1f98207a55@3980.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251204
-DESCRIPTION:https://www.igdb.com/games/toxic-crusaders--4
-SUMMARY:Toxic Crusaders (Full Release) [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
-UID:dd247b4b-83d7-4294-99a8-5928920706c8@dd24.org
+DTSTART;VALUE=DATE:20250925
+DESCRIPTION:https://www.igdb.com/games/ayasa-shadows-of-silence
+SUMMARY:Ayasa: Shadows of Silence (Full Release) [Linux\, PC (Microsoft Windows)]
+UID:60323f37-6d68-49d7-aa1f-fd60c5acf6e5@6032.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
@@ -453,10 +453,10 @@ SUMMARY:Syberia: Remastered (Full Release) [PC (Microsoft Windows)\, PlayStation
 UID:e827b601-5baf-48b1-99d3-92ac17c3fe6b@e827.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250910
-DESCRIPTION:https://www.igdb.com/games/star-birds
-SUMMARY:Star Birds (Early Access) [PC (Microsoft Windows)]
-UID:b7365e12-74da-46cd-83cf-a9860be53d21@b736.org
+DTSTART;VALUE=DATE:20250916
+DESCRIPTION:https://www.igdb.com/games/henry-halfhead
+SUMMARY:Henry Halfhead (Full Release) [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 5]
+UID:a6fc2b58-7f26-4a97-bf58-b6be03e2c7aa@a6fc.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
@@ -471,10 +471,10 @@ SUMMARY:Shroom and Gloom (Full Release) [Mac\, PC (Microsoft Windows)]
 UID:e12fa308-a99d-4952-96bc-439eb69dcd20@e12f.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250916
-DESCRIPTION:https://www.igdb.com/games/henry-halfhead
-SUMMARY:Henry Halfhead (Full Release) [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 5]
-UID:a6fc2b58-7f26-4a97-bf58-b6be03e2c7aa@a6fc.org
+DTSTART;VALUE=DATE:20250910
+DESCRIPTION:https://www.igdb.com/games/star-birds
+SUMMARY:Star Birds (Early Access) [PC (Microsoft Windows)]
+UID:b7365e12-74da-46cd-83cf-a9860be53d21@b736.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
@@ -519,22 +519,10 @@ SUMMARY:EA Sports FC 26 (Advanced Access) [Nintendo Switch\, Nintendo Switch 2\,
 UID:a2c8157d-a5a5-4cbf-92e5-3954364b59d1@a2c8.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251114
-DESCRIPTION:https://www.igdb.com/games/code-violet
-SUMMARY:Code Violet (Full Release) [PlayStation 5]
-UID:8f72d565-5174-4097-b992-84423737cac8@8f72.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251231
-DESCRIPTION:https://www.igdb.com/games/sworn--1
-SUMMARY:Sworn (Full Release) [Nintendo Switch]
-UID:dfe182f5-f3d8-4116-9984-cb11a24b3fb1@dfe1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250915
-DESCRIPTION:https://www.igdb.com/games/lego-voyagers
-SUMMARY:LEGO Voyagers (Full Release) [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox Series X|S]
-UID:21a05700-1965-4428-8614-2c915f05e8a7@21a0.org
+DTSTART;VALUE=DATE:20250917
+DESCRIPTION:https://www.igdb.com/games/ale-abbey
+SUMMARY:Ale Abbey (Full Release) [PC (Microsoft Windows)]
+UID:4556ba1f-e22c-4f16-abba-327e679b1960@4556.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251002
@@ -543,34 +531,28 @@ SUMMARY:Super Mario Galaxy + Super Mario Galaxy 2 (Full Release) [Nintendo Switc
 UID:8fdd98e3-9cfd-4ba2-b167-da3c6ccb831c@8fdd.org
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250915
+DESCRIPTION:https://www.igdb.com/games/lego-voyagers
+SUMMARY:LEGO Voyagers (Full Release) [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox Series X|S]
+UID:21a05700-1965-4428-8614-2c915f05e8a7@21a0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251231
+DESCRIPTION:https://www.igdb.com/games/sworn--1
+SUMMARY:Sworn (Full Release) [Nintendo Switch]
+UID:dfe182f5-f3d8-4116-9984-cb11a24b3fb1@dfe1.org
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260331
 DESCRIPTION:https://www.igdb.com/games/crimson-desert
 SUMMARY:Crimson Desert (Full Release) [Mac\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 UID:32f6fbe4-e44f-449f-a392-e667c21023af@32f6.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250917
-DESCRIPTION:https://www.igdb.com/games/ale-abbey
-SUMMARY:Ale Abbey (Full Release) [PC (Microsoft Windows)]
-UID:4556ba1f-e22c-4f16-abba-327e679b1960@4556.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250905
-DESCRIPTION:https://www.igdb.com/games/cronos-the-new-dawn
-SUMMARY:Cronos: The New Dawn (Full Release) [Linux\, Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:943dc94d-6fc4-4fbb-b659-5278f74b79ee@943d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251231
-DESCRIPTION:https://www.igdb.com/games/terminator-survivors
-SUMMARY:Terminator: Survivors (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:c4f7fc14-6ab7-4983-9425-a5869cc46ae4@c4f7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251021
-DESCRIPTION:https://www.igdb.com/games/painkiller--1
-SUMMARY:Painkiller (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:de81bf72-4c19-410d-aef6-f9a960056bab@de81.org
+DTSTART;VALUE=DATE:20251114
+DESCRIPTION:https://www.igdb.com/games/code-violet
+SUMMARY:Code Violet (Full Release) [PlayStation 5]
+UID:8f72d565-5174-4097-b992-84423737cac8@8f72.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260331
@@ -579,22 +561,40 @@ SUMMARY:Battlestar Galactica: Scattered Hopes (Full Release) [PC (Microsoft Wind
 UID:1117b191-f325-4155-aad2-c14f5b12a46d@1117.org
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251021
+DESCRIPTION:https://www.igdb.com/games/painkiller--1
+SUMMARY:Painkiller (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:de81bf72-4c19-410d-aef6-f9a960056bab@de81.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251231
+DESCRIPTION:https://www.igdb.com/games/terminator-survivors
+SUMMARY:Terminator: Survivors (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:c4f7fc14-6ab7-4983-9425-a5869cc46ae4@c4f7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250905
+DESCRIPTION:https://www.igdb.com/games/cronos-the-new-dawn
+SUMMARY:Cronos: The New Dawn (Full Release) [Linux\, Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:943dc94d-6fc4-4fbb-b659-5278f74b79ee@943d.org
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251106
 DESCRIPTION:https://www.igdb.com/games/unbeatable
 SUMMARY:Unbeatable (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 UID:7dc87b58-e620-4e80-ace2-62424b565e34@7dc8.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251231
-DESCRIPTION:https://www.igdb.com/games/one-move-away
-SUMMARY:One Move Away (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:cd869f64-ef18-45ae-aebb-190e33b5577c@cd86.org
+DTSTART;VALUE=DATE:20251028
+DESCRIPTION:https://www.igdb.com/games/simon-the-sorcerer-origins
+SUMMARY:Simon the Sorcerer Origins (Full Release) [Linux\, Mac\, Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
+UID:a077b81c-2221-4388-8de6-d83a11ac7b42@a077.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
-DESCRIPTION:https://www.igdb.com/games/lords-of-ravage
-SUMMARY:Lords of Ravage (Full Release) [Linux\, PC (Microsoft Windows)]
-UID:5133a716-a4a4-471c-b408-53dd52b9c1ea@5133.org
+DESCRIPTION:https://www.igdb.com/games/easy-delivery-co
+SUMMARY:Easy Delivery Co. (Full Release) [Mac]
+UID:5e1bf1aa-787e-4f46-b161-7b49b6b045d2@5e1b.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250919
@@ -604,15 +604,15 @@ UID:76b17cf2-b38b-488d-a3cf-38cfd4346ca4@76b1.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
-DESCRIPTION:https://www.igdb.com/games/easy-delivery-co
-SUMMARY:Easy Delivery Co. (Full Release) [Mac]
-UID:5e1bf1aa-787e-4f46-b161-7b49b6b045d2@5e1b.org
+DESCRIPTION:https://www.igdb.com/games/lords-of-ravage
+SUMMARY:Lords of Ravage (Full Release) [Linux\, PC (Microsoft Windows)]
+UID:5133a716-a4a4-471c-b408-53dd52b9c1ea@5133.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251028
-DESCRIPTION:https://www.igdb.com/games/simon-the-sorcerer-origins
-SUMMARY:Simon the Sorcerer Origins (Full Release) [Linux\, Mac\, Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
-UID:a077b81c-2221-4388-8de6-d83a11ac7b42@a077.org
+DTSTART;VALUE=DATE:20251231
+DESCRIPTION:https://www.igdb.com/games/one-move-away
+SUMMARY:One Move Away (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:cd869f64-ef18-45ae-aebb-190e33b5577c@cd86.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
@@ -633,22 +633,28 @@ SUMMARY:Projekt Z: Beyond Order (Full Release) [PC (Microsoft Windows)\, PlaySta
 UID:1324a1fe-569e-46d7-a444-5795e7211e76@1324.org
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250922
+DESCRIPTION:https://www.igdb.com/games/renown
+SUMMARY:Renown (Early Access) [PC (Microsoft Windows)]
+UID:b83e8e1d-10ac-4ba6-873b-bb9f4048fb5d@b83e.org
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250826
 DESCRIPTION:https://www.igdb.com/games/gears-of-war-reloaded
 SUMMARY:Gears of War: Reloaded (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 UID:f27ae3b1-f579-4ea3-baff-bbe56a3e7789@f27a.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260331
-DESCRIPTION:https://www.igdb.com/games/kernel-hearts
-SUMMARY:Kernel Hearts (Full Release) [Xbox One\, Xbox Series X|S]
-UID:85ca96ad-3c8b-4365-9d7b-feaea3807627@85ca.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251111
 DESCRIPTION:https://www.igdb.com/games/goodnight-universe--1
 SUMMARY:Goodnight Universe (Full Release) [Nintendo Switch\, Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 UID:80b82e71-bb06-44be-afc1-82b6eb51e01d@80b8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:https://www.igdb.com/games/kernel-hearts
+SUMMARY:Kernel Hearts (Full Release) [Xbox One\, Xbox Series X|S]
+UID:85ca96ad-3c8b-4365-9d7b-feaea3807627@85ca.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
@@ -675,22 +681,10 @@ SUMMARY:Dragon Quest VII Reimagined (Full Release) [Nintendo Switch\, Nintendo S
 UID:3a764e77-16d7-43e0-b10b-dedd8e1d84bd@3a76.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260227
-DESCRIPTION:https://www.igdb.com/games/resident-evil-requiem
-SUMMARY:Resident Evil: Requiem (Full Release) [Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:65124e2c-8e90-4f4f-857f-f985fbcada1a@6512.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250923
-DESCRIPTION:https://www.igdb.com/games/silent-hill-f
-SUMMARY:Silent Hill f (Advanced Access) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:06ba8cc8-d3b1-4908-a9c5-8a9a429e11dd@06ba.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251231
-DESCRIPTION:https://www.igdb.com/games/pioner
-SUMMARY:Pioner (Beta) [PC (Microsoft Windows)]
-UID:e227bcc6-9321-43cd-9961-aab905ed61c5@e227.org
+DTSTART;VALUE=DATE:20250903
+DESCRIPTION:https://www.igdb.com/games/cronos-the-new-dawn
+SUMMARY:Cronos: The New Dawn (Advanced Access) [Linux\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:9e3e73e3-fdca-44ea-86cb-2f5a18af4feb@9e3e.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251021
@@ -699,10 +693,22 @@ SUMMARY:Jurassic World Evolution 3 (Full Release) [PC (Microsoft Windows)\, Play
 UID:8a5089fb-d43d-4427-9ecb-f6a58946ceb8@8a50.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250903
-DESCRIPTION:https://www.igdb.com/games/cronos-the-new-dawn
-SUMMARY:Cronos: The New Dawn (Advanced Access) [Linux\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:9e3e73e3-fdca-44ea-86cb-2f5a18af4feb@9e3e.org
+DTSTART;VALUE=DATE:20251231
+DESCRIPTION:https://www.igdb.com/games/pioner
+SUMMARY:Pioner (Beta) [PC (Microsoft Windows)]
+UID:e227bcc6-9321-43cd-9961-aab905ed61c5@e227.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250923
+DESCRIPTION:https://www.igdb.com/games/silent-hill-f
+SUMMARY:Silent Hill f (Advanced Access) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:06ba8cc8-d3b1-4908-a9c5-8a9a429e11dd@06ba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:https://www.igdb.com/games/resident-evil-requiem
+SUMMARY:Resident Evil: Requiem (Full Release) [Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:65124e2c-8e90-4f4f-857f-f985fbcada1a@6512.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
@@ -723,16 +729,10 @@ SUMMARY:Inazuma Eleven: Victory Road (Full Release) [Nintendo Switch\, Nintendo 
 UID:0e1fe854-6d4b-4987-b817-722daa2c20dd@0e1f.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251114
-DESCRIPTION:https://www.igdb.com/games/call-of-duty-black-ops-7
-SUMMARY:Call of Duty: Black Ops 7 (Full Release) [PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
-UID:fce18138-5889-4f35-a981-4dd828741eb5@fce1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250926
-DESCRIPTION:https://www.igdb.com/games/pac-man-world-2-re-pac
-SUMMARY:Pac-Man World 2 Re-Pac (Full Release) [Nintendo Switch\, Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
-UID:3e3d6a57-5d11-4a29-b1dc-b967a311f19b@3e3d.org
+DTSTART;VALUE=DATE:20260526
+DESCRIPTION:https://www.igdb.com/games/grand-theft-auto-vi
+SUMMARY:Grand Theft Auto VI (Full Release) [PlayStation 5\, Xbox Series X|S]
+UID:9dba13e6-5753-4d99-8dfd-79878d186abf@9dba.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250919
@@ -741,10 +741,16 @@ SUMMARY:Jump Space (Early Access) [PC (Microsoft Windows)\, Xbox Series X|S]
 UID:0e3e1c60-73be-4b87-aefe-3e8e89bee8fd@0e3e.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260526
-DESCRIPTION:https://www.igdb.com/games/grand-theft-auto-vi
-SUMMARY:Grand Theft Auto VI (Full Release) [PlayStation 5\, Xbox Series X|S]
-UID:9dba13e6-5753-4d99-8dfd-79878d186abf@9dba.org
+DTSTART;VALUE=DATE:20250926
+DESCRIPTION:https://www.igdb.com/games/pac-man-world-2-re-pac
+SUMMARY:Pac-Man World 2 Re-Pac (Full Release) [Nintendo Switch\, Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
+UID:3e3d6a57-5d11-4a29-b1dc-b967a311f19b@3e3d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251114
+DESCRIPTION:https://www.igdb.com/games/call-of-duty-black-ops-7
+SUMMARY:Call of Duty: Black Ops 7 (Full Release) [PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
+UID:fce18138-5889-4f35-a981-4dd828741eb5@fce1.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250829
@@ -753,10 +759,10 @@ SUMMARY:Fear Effect (Full Release) [Nintendo Switch\, PC (Microsoft Windows)\, P
 UID:e011e606-f9b8-4e95-bec5-29a8f0a0b56c@e011.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250909
-DESCRIPTION:https://www.igdb.com/games/dragon-ball-gekishin-squadra--1
-SUMMARY:Dragon Ball Gekishin Squadra (Full Release) [Nintendo Switch]
-UID:129f2c43-66f0-4e0d-b39e-49f5f64b384e@129f.org
+DTSTART;VALUE=DATE:20250904
+DESCRIPTION:https://www.igdb.com/games/kemono-teatime
+SUMMARY:Kemono Teatime (Full Release) [Nintendo Switch\, PC (Microsoft Windows)]
+UID:c4a14bf8-f8d4-4e25-a61d-73f7bc4216af@c4a1.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
@@ -765,10 +771,10 @@ SUMMARY:Nivalis (Full Release) [PC (Microsoft Windows)]
 UID:abdc17ab-a9b2-4d0d-b31d-8b3c0106afad@abdc.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250904
-DESCRIPTION:https://www.igdb.com/games/kemono-teatime
-SUMMARY:Kemono Teatime (Full Release) [Nintendo Switch\, PC (Microsoft Windows)]
-UID:c4a14bf8-f8d4-4e25-a61d-73f7bc4216af@c4a1.org
+DTSTART;VALUE=DATE:20250909
+DESCRIPTION:https://www.igdb.com/games/dragon-ball-gekishin-squadra--1
+SUMMARY:Dragon Ball Gekishin Squadra (Full Release) [Nintendo Switch]
+UID:129f2c43-66f0-4e0d-b39e-49f5f64b384e@129f.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
@@ -873,16 +879,16 @@ SUMMARY:All Will Fall (Full Release) [PC (Microsoft Windows)]
 UID:2b6f93ef-f6b4-4e6c-8e26-14b975cd191a@2b6f.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250826
-DESCRIPTION:https://www.igdb.com/games/metal-gear-solid-delta-snake-eater
-SUMMARY:Metal Gear Solid Delta: Snake Eater (Advanced Access) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:1cfc4eb1-5215-4f24-a4a3-fb03c5030772@1cfc.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250925
 DESCRIPTION:https://www.igdb.com/games/sonic-racing-crossworlds
 SUMMARY:Sonic Racing: CrossWorlds (Full Release) [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One]
 UID:aadd8927-d578-4268-af70-a34f4121ff07@aadd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250826
+DESCRIPTION:https://www.igdb.com/games/metal-gear-solid-delta-snake-eater
+SUMMARY:Metal Gear Solid Delta: Snake Eater (Advanced Access) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:1cfc4eb1-5215-4f24-a4a3-fb03c5030772@1cfc.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250825
@@ -903,16 +909,16 @@ SUMMARY:Escape Simulator 2 (Full Release) [Mac\, PC (Microsoft Windows)]
 UID:6159ff8b-cdf8-4513-a233-f8df26434269@6159.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250915
-DESCRIPTION:https://www.igdb.com/games/fata-deum
-SUMMARY:Fata Deum (Early Access) [PC (Microsoft Windows)]
-UID:55195b22-1493-481c-8d57-bdc5b3f7568a@5519.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251022
 DESCRIPTION:https://www.igdb.com/games/double-dragon-revive
 SUMMARY:Double Dragon Revive (Advanced Access) [PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
 UID:80a44c11-98a1-4f12-a8e6-2732c2fcf8cb@80a4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250915
+DESCRIPTION:https://www.igdb.com/games/fata-deum
+SUMMARY:Fata Deum (Early Access) [PC (Microsoft Windows)]
+UID:55195b22-1493-481c-8d57-bdc5b3f7568a@5519.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240820
@@ -927,16 +933,16 @@ SUMMARY:EA Sports FC 26 (Full Release) [Nintendo Switch\, Nintendo Switch 2\, PC
 UID:60403afe-3d33-41ca-985e-b2ecc60c9a25@6040.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260630
-DESCRIPTION:https://www.igdb.com/games/super-mario-bros-wonder-nintendo-switch-2-edition-plus-meetup-in-bellabel-park
-SUMMARY:Super Mario Bros. Wonder: Nintendo Switch 2 Edition + Meetup in Bellabel Park (Full Release) [Nintendo Switch 2]
-UID:de3575ac-6f01-4c21-88a4-0ad7e210affc@de35.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
 DESCRIPTION:https://www.igdb.com/games/indiana-jones-and-the-great-circle-the-order-of-giants
 SUMMARY:Indiana Jones and the Great Circle: The Order of Giants (Full Release) [Nintendo Switch 2]
 UID:54d97eb5-b857-4e23-b20f-9fddb39a5bff@54d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260630
+DESCRIPTION:https://www.igdb.com/games/super-mario-bros-wonder-nintendo-switch-2-edition-plus-meetup-in-bellabel-park
+SUMMARY:Super Mario Bros. Wonder: Nintendo Switch 2 Edition + Meetup in Bellabel Park (Full Release) [Nintendo Switch 2]
+UID:de3575ac-6f01-4c21-88a4-0ad7e210affc@de35.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
@@ -951,16 +957,16 @@ SUMMARY:King of Meat (Full Release) [Nintendo Switch]
 UID:d5aa204b-a7ff-41e0-b96e-d4f09fbcdf91@d5aa.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251119
-DESCRIPTION:https://www.igdb.com/games/demonschool
-SUMMARY:Demonschool (Full Release) [Linux\, Mac\, Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
-UID:4aa18bf8-5b9a-49db-ac38-19a260fecf43@4aa1.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
 DESCRIPTION:https://www.igdb.com/games/industria-ii
 SUMMARY:Industria II (Full Release) [PC (Microsoft Windows)]
 UID:b679e598-deac-4e51-9f8a-18fbee5487ea@b679.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251119
+DESCRIPTION:https://www.igdb.com/games/demonschool
+SUMMARY:Demonschool (Full Release) [Linux\, Mac\, Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
+UID:4aa18bf8-5b9a-49db-ac38-19a260fecf43@4aa1.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250930
@@ -969,16 +975,10 @@ SUMMARY:Super Fantasy Kingdom (Full Release) [PC (Microsoft Windows)]
 UID:3925ded3-c297-42cd-8ba6-8896e2bfa4f2@3925.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250609
-DESCRIPTION:https://www.igdb.com/games/all-will-fall
-SUMMARY:All Will Fall (Beta) [PC (Microsoft Windows)]
-UID:c778e7b2-5623-4609-966f-37511778c225@c778.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250926
-DESCRIPTION:https://www.igdb.com/games/atelier-resleriana-the-red-alchemist-and-the-white-guardian
-SUMMARY:Atelier Resleriana: The Red Alchemist & the White Guardian (Full Release) [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5]
-UID:fe8d20c5-55bb-4a6c-a280-5019b0d9882a@fe8d.org
+DTSTART;VALUE=DATE:20251016
+DESCRIPTION:https://www.igdb.com/games/pokemon-legends-z-a
+SUMMARY:Pokémon Legends: Z-A (Full Release) [Nintendo Switch\, Nintendo Switch 2]
+UID:276dafad-1681-4052-a6e4-372ac92be79d@276d.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
@@ -987,16 +987,22 @@ SUMMARY:Decadent (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xbox S
 UID:c4789265-eb84-4a27-a492-f59f609b90c6@c478.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251016
-DESCRIPTION:https://www.igdb.com/games/pokemon-legends-z-a
-SUMMARY:Pokémon Legends: Z-A (Full Release) [Nintendo Switch\, Nintendo Switch 2]
-UID:276dafad-1681-4052-a6e4-372ac92be79d@276d.org
+DTSTART;VALUE=DATE:20250926
+DESCRIPTION:https://www.igdb.com/games/atelier-resleriana-the-red-alchemist-and-the-white-guardian
+SUMMARY:Atelier Resleriana: The Red Alchemist & the White Guardian (Full Release) [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5]
+UID:fe8d20c5-55bb-4a6c-a280-5019b0d9882a@fe8d.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250930
-DESCRIPTION:https://www.igdb.com/games/glaciered
-SUMMARY:Glaciered (Full Release) [PC (Microsoft Windows)]
-UID:3323d490-1674-4332-8c9c-47f1e8a424a5@3323.org
+DTSTART;VALUE=DATE:20250609
+DESCRIPTION:https://www.igdb.com/games/all-will-fall
+SUMMARY:All Will Fall (Beta) [PC (Microsoft Windows)]
+UID:c778e7b2-5623-4609-966f-37511778c225@c778.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250925
+DESCRIPTION:https://www.igdb.com/games/sworn--1
+SUMMARY:Sworn (Early Access) [PC (Microsoft Windows)]
+UID:be70663e-290a-4a98-8e0b-b4ebf52a436b@be70.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251016
@@ -1005,10 +1011,10 @@ SUMMARY:Reach (Full Release) [Meta Quest 3\, PlayStation VR2\, SteamVR]
 UID:121f6e1e-6c2c-41a0-86c9-20908932249c@121f.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250925
-DESCRIPTION:https://www.igdb.com/games/sworn--1
-SUMMARY:Sworn (Early Access) [PC (Microsoft Windows)]
-UID:be70663e-290a-4a98-8e0b-b4ebf52a436b@be70.org
+DTSTART;VALUE=DATE:20250930
+DESCRIPTION:https://www.igdb.com/games/glaciered
+SUMMARY:Glaciered (Full Release) [PC (Microsoft Windows)]
+UID:3323d490-1674-4332-8c9c-47f1e8a424a5@3323.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251022
@@ -1029,16 +1035,16 @@ SUMMARY:Dragon Ball Gekishin Squadra (Full Release) [Android\, Nintendo Switch 2
 UID:0aad5b1a-3753-4776-88e5-8d3e19e55bbd@0aad.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251009
-DESCRIPTION:https://www.igdb.com/games/absolum
-SUMMARY:Absolum (Full Release) [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5]
-UID:d9a8a8fd-86f1-4627-9dc9-c15656f27185@d9a8.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251003
 DESCRIPTION:https://www.igdb.com/games/digimon-story-time-stranger
 SUMMARY:Digimon Story: Time Stranger (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 UID:a06a2426-e92e-4d29-b172-2829df4aca08@a06a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251009
+DESCRIPTION:https://www.igdb.com/games/absolum
+SUMMARY:Absolum (Full Release) [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5]
+UID:d9a8a8fd-86f1-4627-9dc9-c15656f27185@d9a8.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250909
@@ -1089,16 +1095,16 @@ SUMMARY:The Ranchers (Full Release) [Linux\, Mac\, PC (Microsoft Windows)]
 UID:fdda2e86-45dd-4e98-9ab7-7b054c9d1fb4@fdda.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250919
-DESCRIPTION:https://www.igdb.com/games/warborne-above-ashes
-SUMMARY:Warborne: Above Ashes (Full Release) [PC (Microsoft Windows)]
-UID:6abbfbf1-01b8-4e57-b600-2f8325547a48@6abb.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251022
 DESCRIPTION:https://www.igdb.com/games/dispatch--3
 SUMMARY:Dispatch (Full Release) [PC (Microsoft Windows)\, PlayStation 5]
 UID:bf3388ca-7f71-4c89-9d25-2c2939b4e70a@bf33.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250919
+DESCRIPTION:https://www.igdb.com/games/warborne-above-ashes
+SUMMARY:Warborne: Above Ashes (Full Release) [PC (Microsoft Windows)]
+UID:6abbfbf1-01b8-4e57-b600-2f8325547a48@6abb.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
@@ -1125,16 +1131,22 @@ SUMMARY:Neon Inferno (Full Release) [Nintendo Switch\, PC (Microsoft Windows)\, 
 UID:9260d116-daa6-42bd-b167-a4dbb6168690@9260.org
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250904
+DESCRIPTION:https://www.igdb.com/games/hell-is-us
+SUMMARY:Hell is Us (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:d86535b5-ca70-4e86-8ca2-e3d08af193da@d865.org
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
 DESCRIPTION:https://www.igdb.com/games/the-jackbox-party-pack-11
 SUMMARY:The Jackbox Party Pack 11 (Full Release) [Linux\, Mac\, PC (Microsoft Windows)]
 UID:976e741e-809d-4dd7-b573-dc4f7bd31aff@976e.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250904
-DESCRIPTION:https://www.igdb.com/games/hell-is-us
-SUMMARY:Hell is Us (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:d86535b5-ca70-4e86-8ca2-e3d08af193da@d865.org
+DTSTART;VALUE=DATE:20250923
+DESCRIPTION:https://www.igdb.com/games/aethermancer
+SUMMARY:Aethermancer (Early Access) [Linux\, Mac\, PC (Microsoft Windows)]
+UID:8d9b151a-e74c-4d29-9743-b67b75531396@8d9b.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
@@ -1149,16 +1161,10 @@ SUMMARY:Double Dragon Revive (Full Release) [Nintendo Switch\, PC (Microsoft Win
 UID:1d6e2e79-c09c-4bde-b6ff-d1b58bd36c76@1d6e.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260301
-DESCRIPTION:https://www.igdb.com/games/slay-the-spire-ii
-SUMMARY:Slay the Spire II (Full Release) [PC (Microsoft Windows)]
-UID:463b42c4-af4b-4aae-a433-b2d54a459620@463b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250418
-DESCRIPTION:https://www.igdb.com/games/lost-skies
-SUMMARY:Lost Skies (Early Access) [PC (Microsoft Windows)]
-UID:be0a26d3-596f-41de-b2ce-0e70af74e1dc@be0a.org
+DTSTART;VALUE=DATE:20251002
+DESCRIPTION:https://www.igdb.com/games/king-of-meat
+SUMMARY:King of Meat (Advanced Access) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:a12f3275-e3cc-4282-85e0-5c6de70b7b4a@a12f.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250918
@@ -1167,10 +1173,16 @@ SUMMARY:Moros Protocol (Full Release) [PC (Microsoft Windows)]
 UID:43ee067c-f7c2-4b29-8425-be1eb76453f2@43ee.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251002
-DESCRIPTION:https://www.igdb.com/games/king-of-meat
-SUMMARY:King of Meat (Advanced Access) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:a12f3275-e3cc-4282-85e0-5c6de70b7b4a@a12f.org
+DTSTART;VALUE=DATE:20250418
+DESCRIPTION:https://www.igdb.com/games/lost-skies
+SUMMARY:Lost Skies (Early Access) [PC (Microsoft Windows)]
+UID:be0a26d3-596f-41de-b2ce-0e70af74e1dc@be0a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260301
+DESCRIPTION:https://www.igdb.com/games/slay-the-spire-ii
+SUMMARY:Slay the Spire II (Full Release) [PC (Microsoft Windows)]
+UID:463b42c4-af4b-4aae-a433-b2d54a459620@463b.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
@@ -1185,16 +1197,16 @@ SUMMARY:Faeland (Early Access) [PC (Microsoft Windows)]
 UID:4ba3c1ab-5bd8-4081-bf28-8fb22e8e5992@4ba3.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251017
-DESCRIPTION:https://www.igdb.com/games/keeper--5
-SUMMARY:Keeper (Full Release) [PC (Microsoft Windows)\, Xbox Series X|S]
-UID:990214f1-188f-4a3e-bc01-87a7c1b89ef8@9902.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251120
 DESCRIPTION:https://www.igdb.com/games/outlaws-plus-handful-of-missions-remastered
 SUMMARY:Outlaws + Handful of Missions: Remastered (Full Release) [PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
 UID:1bebe724-3866-4820-9542-9da1ff95d279@1beb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251017
+DESCRIPTION:https://www.igdb.com/games/keeper--5
+SUMMARY:Keeper (Full Release) [PC (Microsoft Windows)\, Xbox Series X|S]
+UID:990214f1-188f-4a3e-bc01-87a7c1b89ef8@9902.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250925
@@ -1209,28 +1221,16 @@ SUMMARY:Sworn (Full Release) [PlayStation 5\, Xbox Series X|S]
 UID:a6aab59d-f82e-4c6a-86b5-5b79dfd77e2e@a6aa.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251231
-DESCRIPTION:https://www.igdb.com/games/showa-american-story
-SUMMARY:Showa American Story (Full Release) [PC (Microsoft Windows)\, PlayStation 5]
-UID:ef0f092d-96fa-4c09-9713-c3e83000ff45@ef0f.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250826
 DESCRIPTION:https://www.igdb.com/games/shinobi-art-of-vengeance
 SUMMARY:Shinobi: Art of Vengeance (Advanced Access) [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
 UID:355b9314-2b6b-4e8b-9aba-1bd7ae93ba60@355b.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260331
-DESCRIPTION:https://www.igdb.com/games/reanimal
-SUMMARY:Reanimal (Full Release) [Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:2f8817cd-870d-45da-aca6-bfce71bd1a96@2f88.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260212
-DESCRIPTION:https://www.igdb.com/games/mario-tennis-fever
-SUMMARY:Mario Tennis Fever (Full Release) [Nintendo Switch 2]
-UID:a8fe780d-d2da-4a80-a03e-8746e6b0fcbc@a8fe.org
+DTSTART;VALUE=DATE:20251231
+DESCRIPTION:https://www.igdb.com/games/showa-american-story
+SUMMARY:Showa American Story (Full Release) [PC (Microsoft Windows)\, PlayStation 5]
+UID:ef0f092d-96fa-4c09-9713-c3e83000ff45@ef0f.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250918
@@ -1239,10 +1239,22 @@ SUMMARY:Pigface (Early Access) [PC (Microsoft Windows)]
 UID:1aab49d3-1a9d-4469-8d65-03f8d3cb6a11@1aab.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251030
-DESCRIPTION:https://www.igdb.com/games/dragon-quest-i-and-ii-hd-2d-remake
-SUMMARY:Dragon Quest I & II HD-2D Remake (Full Release) [Nintendo Switch\, Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:eea054eb-3772-4217-81c0-aacd80aa2683@eea0.org
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:https://www.igdb.com/games/mario-tennis-fever
+SUMMARY:Mario Tennis Fever (Full Release) [Nintendo Switch 2]
+UID:a8fe780d-d2da-4a80-a03e-8746e6b0fcbc@a8fe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:https://www.igdb.com/games/reanimal
+SUMMARY:Reanimal (Full Release) [Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:2f8817cd-870d-45da-aca6-bfce71bd1a96@2f88.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250905
+DESCRIPTION:https://www.igdb.com/games/everybodys-golf-hot-shots
+SUMMARY:Everybody’s Golf: Hot Shots (Full Release) [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 5]
+UID:cbfc5258-3f4b-4892-ba69-946f88ac9199@cbfc.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250827
@@ -1263,34 +1275,34 @@ SUMMARY:Nicktoons & The Dice of Destiny (Full Release) [Nintendo Switch\, PC (Mi
 UID:559edeab-4a32-4d1b-b445-d58d416dd0d5@559e.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251120
-DESCRIPTION:https://www.igdb.com/games/kirby-air-riders
-SUMMARY:Kirby Air Riders (Full Release) [Nintendo Switch 2]
-UID:f25219fa-76a3-45d4-ba75-b71a3e42cede@f252.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260331
 DESCRIPTION:https://www.igdb.com/games/enginefall
 SUMMARY:Enginefall (Full Release) [PC (Microsoft Windows)]
 UID:2dbe31d9-b0ba-43ee-bf48-e486d6de1f91@2dbe.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250905
-DESCRIPTION:https://www.igdb.com/games/everybodys-golf-hot-shots
-SUMMARY:Everybody’s Golf: Hot Shots (Full Release) [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 5]
-UID:cbfc5258-3f4b-4892-ba69-946f88ac9199@cbfc.org
+DTSTART;VALUE=DATE:20251120
+DESCRIPTION:https://www.igdb.com/games/kirby-air-riders
+SUMMARY:Kirby Air Riders (Full Release) [Nintendo Switch 2]
+UID:f25219fa-76a3-45d4-ba75-b71a3e42cede@f252.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250930
-DESCRIPTION:https://www.igdb.com/games/bits-and-bops
-SUMMARY:Bits & Bops (Full Release) [Linux\, Mac\, PC (Microsoft Windows)]
-UID:4f6b9f03-0ae1-4fad-9eb2-e673cab7bca2@4f6b.org
+DTSTART;VALUE=DATE:20251030
+DESCRIPTION:https://www.igdb.com/games/dragon-quest-i-and-ii-hd-2d-remake
+SUMMARY:Dragon Quest I & II HD-2D Remake (Full Release) [Nintendo Switch\, Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:eea054eb-3772-4217-81c0-aacd80aa2683@eea0.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
 DESCRIPTION:https://www.igdb.com/games/instinction
 SUMMARY:Instinction (Full Release) [PC (Microsoft Windows)]
 UID:db8cc617-2bf2-4016-a838-56eb62609645@db8c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250930
+DESCRIPTION:https://www.igdb.com/games/bits-and-bops
+SUMMARY:Bits & Bops (Full Release) [Linux\, Mac\, PC (Microsoft Windows)]
+UID:4f6b9f03-0ae1-4fad-9eb2-e673cab7bca2@4f6b.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
@@ -1323,10 +1335,10 @@ SUMMARY:Hirogami (Full Release) [PC (Microsoft Windows)\, PlayStation 5]
 UID:6d8dba5a-982f-4a65-a6ac-96301976988f@6d8d.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251118
-DESCRIPTION:https://www.igdb.com/games/morsels
-SUMMARY:Morsels (Full Release) [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:48d1f2b8-e3bf-40c1-8bc3-e4ca6aca307c@48d1.org
+DTSTART;VALUE=DATE:20251231
+DESCRIPTION:https://www.igdb.com/games/crisol-theater-of-idols
+SUMMARY:Crisol: Theater of Idols (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:95f25ab7-dbd4-498c-b5d1-15bc9cf08b05@95f2.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251030
@@ -1341,22 +1353,22 @@ SUMMARY:Ball x Pit (Full Release) [Nintendo Switch 2]
 UID:77c8d761-7c49-4c3e-8e0c-f09c2bb8b381@77c8.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250919
-DESCRIPTION:https://www.igdb.com/games/towa-and-the-guardians-of-the-sacred-tree
-SUMMARY:Towa and the Guardians of the Sacred Tree (Full Release) [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:70c480be-5644-486b-bd4c-161107f18ff5@70c4.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
 DESCRIPTION:https://www.igdb.com/games/gecko-gods--1
 SUMMARY:Gecko Gods (Full Release) [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 5]
 UID:d930e5e1-5208-4f40-8409-b79c10a21a12@d930.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251231
-DESCRIPTION:https://www.igdb.com/games/crisol-theater-of-idols
-SUMMARY:Crisol: Theater of Idols (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:95f25ab7-dbd4-498c-b5d1-15bc9cf08b05@95f2.org
+DTSTART;VALUE=DATE:20250919
+DESCRIPTION:https://www.igdb.com/games/towa-and-the-guardians-of-the-sacred-tree
+SUMMARY:Towa and the Guardians of the Sacred Tree (Full Release) [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:70c480be-5644-486b-bd4c-161107f18ff5@70c4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251118
+DESCRIPTION:https://www.igdb.com/games/morsels
+SUMMARY:Morsels (Full Release) [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:48d1f2b8-e3bf-40c1-8bc3-e4ca6aca307c@48d1.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250918
@@ -1419,16 +1431,16 @@ SUMMARY:Daemon x Machina: Titanic Scion (Full Release) [Nintendo Switch 2\, PC (
 UID:38883b5b-3c1a-4f8a-b643-b541832d343f@3888.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251029
-DESCRIPTION:https://www.igdb.com/games/the-outer-worlds-2
-SUMMARY:The Outer Worlds 2 (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:d9e33948-809f-41db-b7f1-0216fdc6bcc1@d9e3.org
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:https://www.igdb.com/games/dragon-quest-vii-reimagined
+SUMMARY:Dragon Quest VII Reimagined (Advanced Access) [Nintendo Switch\, Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:4da74cb5-cb25-4889-8c79-4e5e9218e06b@4da7.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251024
-DESCRIPTION:https://www.igdb.com/games/the-outer-worlds-2
-SUMMARY:The Outer Worlds 2 (Advanced Access) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:bc5195db-03c2-4656-bce4-894710f38f0c@bc51.org
+DTSTART;VALUE=DATE:20250918
+DESCRIPTION:https://www.igdb.com/games/ratatan
+SUMMARY:Ratatan (Early Access) [PC (Microsoft Windows)]
+UID:6b21db8b-677c-43eb-b17b-e6981577e519@6b21.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260213
@@ -1443,28 +1455,28 @@ SUMMARY:Darwin's Paradox! (Full Release) [Nintendo Switch\, PC (Microsoft Window
 UID:af6ad1b2-af36-4fef-ae85-06eb911a24f0@af6a.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250918
-DESCRIPTION:https://www.igdb.com/games/ratatan
-SUMMARY:Ratatan (Early Access) [PC (Microsoft Windows)]
-UID:6b21db8b-677c-43eb-b17b-e6981577e519@6b21.org
+DTSTART;VALUE=DATE:20251024
+DESCRIPTION:https://www.igdb.com/games/the-outer-worlds-2
+SUMMARY:The Outer Worlds 2 (Advanced Access) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:bc5195db-03c2-4656-bce4-894710f38f0c@bc51.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260203
-DESCRIPTION:https://www.igdb.com/games/dragon-quest-vii-reimagined
-SUMMARY:Dragon Quest VII Reimagined (Advanced Access) [Nintendo Switch\, Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:4da74cb5-cb25-4889-8c79-4e5e9218e06b@4da7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250930
-DESCRIPTION:https://www.igdb.com/games/alien-rogue-incursion-evolved-edition
-SUMMARY:Alien: Rogue Incursion Evolved Edition (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-UID:a1abd2d3-aab7-4d89-9b53-dc5aad0757ab@a1ab.org
+DTSTART;VALUE=DATE:20251029
+DESCRIPTION:https://www.igdb.com/games/the-outer-worlds-2
+SUMMARY:The Outer Worlds 2 (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:d9e33948-809f-41db-b7f1-0216fdc6bcc1@d9e3.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250901
 DESCRIPTION:https://www.igdb.com/games/hell-is-us
 SUMMARY:Hell is Us (Advanced Access) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 UID:a6cd266a-6f4a-4649-8c62-e0b1921f995f@a6cd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250930
+DESCRIPTION:https://www.igdb.com/games/alien-rogue-incursion-evolved-edition
+SUMMARY:Alien: Rogue Incursion Evolved Edition (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+UID:a1abd2d3-aab7-4d89-9b53-dc5aad0757ab@a1ab.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
@@ -1479,16 +1491,16 @@ SUMMARY:Tears of Metal (Beta) [PC (Microsoft Windows)]
 UID:de71b8ea-577e-46db-9376-6d847ed7215b@de71.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250829
-DESCRIPTION:https://www.igdb.com/games/lost-soul-aside
-SUMMARY:Lost Soul Aside (Full Release) [PC (Microsoft Windows)\, PlayStation 5]
-UID:e90511fb-1794-4bce-91a5-bf8095848b63@e905.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250904
 DESCRIPTION:https://www.igdb.com/games/indiana-jones-and-the-great-circle-the-order-of-giants
 SUMMARY:Indiana Jones and the Great Circle: The Order of Giants (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 UID:a4ffb184-f49c-4378-b918-89e97d68811c@a4ff.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250829
+DESCRIPTION:https://www.igdb.com/games/lost-soul-aside
+SUMMARY:Lost Soul Aside (Full Release) [PC (Microsoft Windows)\, PlayStation 5]
+UID:e90511fb-1794-4bce-91a5-bf8095848b63@e905.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251010
@@ -1525,6 +1537,12 @@ DTSTART;VALUE=DATE:20260331
 DESCRIPTION:https://www.igdb.com/games/the-occultist
 SUMMARY:The Occultist (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 UID:c5a49064-a98a-40fc-8ee1-c4ff7ea6199f@c5a4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250918
+DESCRIPTION:https://www.igdb.com/games/dying-light-the-beast
+SUMMARY:Dying Light: The Beast (Full Release) [PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
+UID:11591c05-c3d7-432b-84b0-a8a9ed708516@1159.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250926

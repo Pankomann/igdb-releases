@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Unrailed 2: Back on Track (Early Access) [Mac\, PC (Microsoft Wind
  ows)]
 DTSTART;VALUE=DATE:20241107
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:unrailed-2-back-on-track-Early Access-2024-11-07@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/unrailed-2-back-on-track
 END:VEVENT
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 SUMMARY:Unrailed 2: Back on Track (Full Release) [Mac\, Nintendo Switch\, 
  Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5]
 DTSTART;VALUE=DATE:20260611
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:unrailed-2-back-on-track-Full Release-2026-06-11@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/unrailed-2-back-on-track
 END:VEVENT
@@ -23,62 +23,100 @@ BEGIN:VEVENT
 SUMMARY:Thank You For Your Application (Full Release) [Mac\, PC (Microsoft
   Windows)]
 DTSTART;VALUE=DATE:20260619
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:thank-you-for-your-application-Full Release-2026-06-19@pankomann.githu
  b.io
 DESCRIPTION:https://www.igdb.com/games/thank-you-for-your-application
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Mound: Omen of Cthulhu (Full Release) [Linux\, PC (Microsoft W
+ indows)\, PlayStation 5\, Xbox Series X|S]
+DTSTART;VALUE=DATE:20260715
+DTSTAMP:20260703T033222Z
+UID:the-mound-omen-of-cthulhu-Full Release-2026-07-15@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/the-mound-omen-of-cthulhu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Blood of Dawnwalker (Full Release) [PC (Microsoft Windows)\, P
+ layStation 5\, Xbox Series X|S]
+DTSTART;VALUE=DATE:20260903
+DTSTAMP:20260703T033222Z
+UID:the-blood-of-dawnwalker-Full Release-2026-09-03@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/the-blood-of-dawnwalker
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gears of War: E-Day (Full Release) [PC (Microsoft Windows)\, Xbox 
+ Series X|S]
+DTSTART;VALUE=DATE:20261006
+DTSTAMP:20260703T033222Z
+UID:gears-of-war-e-day-Full Release-2026-10-06@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/gears-of-war-e-day
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gears of War: E-Day (Advanced Access) [PC (Microsoft Windows)\, Xb
+ ox Series X|S]
+DTSTART;VALUE=DATE:20261001
+DTSTAMP:20260703T033222Z
+UID:gears-of-war-e-day-Advanced Access-2026-10-01@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/gears-of-war-e-day
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gears of War: E-Day (Cancelled) [PlayStation 5]
+DTSTART;VALUE=DATE:20261231
+DTSTAMP:20260703T033222Z
+UID:gears-of-war-e-day-Cancelled-2026-12-31@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/gears-of-war-e-day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avatar Legends: The Fighting Game (Full Release) [Nintendo Switch\
  , Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series
   X|S]
 DTSTART;VALUE=DATE:20260723
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:avatar-legends-the-fighting-game-Full Release-2026-07-23@pankomann.git
  hub.io
 DESCRIPTION:https://www.igdb.com/games/avatar-legends-the-fighting-game
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Acts of Blood (Full Release) [PC (Microsoft Windows)]
+DTSTART;VALUE=DATE:20260930
+DTSTAMP:20260703T033222Z
+UID:acts-of-blood-Full Release-2026-09-30@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/acts-of-blood
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Shadow of the Road (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:shadow-of-the-road-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/shadow-of-the-road
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shadow of the Road (Alpha) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20250325
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:shadow-of-the-road-Alpha-2025-03-25@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/shadow-of-the-road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Empulse (Early Access) [PC (Microsoft Windows)\, PlayStation 5\, X
- box Series X|S]
-DTSTART;VALUE=DATE:20260624
-DTSTAMP:20260702T035052Z
-UID:empulse-Early Access-2026-06-24@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/empulse
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Castlevania: Belmont's Curse (Full Release) [PC (Microsoft Windows
  )\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261015
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:castlevania-belmonts-curse-Full Release-2026-10-15@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/castlevania-belmonts-curse
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Castlevania: Belmont's Curse (Full Release) [Nintendo Switch]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:castlevania-belmonts-curse-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/castlevania-belmonts-curse
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:My Arms Are Longer Now (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:my-arms-are-longer-now-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/my-arms-are-longer-now
 END:VEVENT
@@ -86,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:My Arms Are Longer Now (Full Release) [Nintendo Switch\, PlayStati
  on 4\, PlayStation 5]
 DTSTART;VALUE=DATE:20271231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:my-arms-are-longer-now-Full Release-2027-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/my-arms-are-longer-now
 END:VEVENT
@@ -94,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:Inazuma Eleven Re (Full Release) [Nintendo Switch\, Nintendo Switc
  h 2\, PC (Microsoft Windows)\, PlayStation 5]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:inazuma-eleven-re-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/inazuma-eleven-re
 END:VEVENT
@@ -102,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:My Femboy Roommate: Special Weekend (Full Release) [PC (Microsoft 
  Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:my-femboy-roommate-special-weekend-Full Release-2026-12-31@pankomann.g
  ithub.io
 DESCRIPTION:https://www.igdb.com/games/my-femboy-roommate-special-weekend
@@ -111,7 +149,7 @@ BEGIN:VEVENT
 SUMMARY:Doom: The Dark Ages - Revelations (Full Release) [PC (Microsoft Wi
  ndows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260707
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:doom-the-dark-ages-revelations-Full Release-2026-07-07@pankomann.githu
  b.io
 DESCRIPTION:https://www.igdb.com/games/doom-the-dark-ages-revelations
@@ -119,7 +157,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Low-Budget Repairs (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260813
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:low-budget-repairs-Full Release-2026-08-13@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/low-budget-repairs
 END:VEVENT
@@ -127,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:Tenebris Somnia (Full Release) [Nintendo Switch\, Nintendo Switch 
  2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261016
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:tenebris-somnia-Full Release-2026-10-16@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/tenebris-somnia
 END:VEVENT
@@ -135,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:Lou's Lagoon (Full Release) [Nintendo Switch\, PC (Microsoft Windo
  ws)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260827
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:lous-lagoon-Full Release-2026-08-27@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/lous-lagoon
 END:VEVENT
@@ -143,21 +181,21 @@ BEGIN:VEVENT
 SUMMARY:Onimusha: Dawn of Dreams (Full Release) [PlayStation 4\, PlayStati
  on 5]
 DTSTART;VALUE=DATE:20260801
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:onimusha-dawn-of-dreams--1-Full Release-2026-08-01@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/onimusha-dawn-of-dreams--1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scarlet Deer Inn (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260721
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:scarlet-deer-inn-Full Release-2026-07-21@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/scarlet-deer-inn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Capy Castaway (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260930
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:capy-castaway-Full Release-2026-09-30@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/capy-castaway
 END:VEVENT
@@ -165,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:Rover's Tale (Full Release) [Nintendo Switch 2\, PC (Microsoft Win
  dows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:rovers-tale-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/rovers-tale
 END:VEVENT
@@ -173,7 +211,7 @@ BEGIN:VEVENT
 SUMMARY:Ikuma: The Frozen Compass (Full Release) [PC (Microsoft Windows)\,
   PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:ikuma-the-frozen-compass-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/ikuma-the-frozen-compass
 END:VEVENT
@@ -182,7 +220,7 @@ SUMMARY:Steins\;Gate Re:Boot (Full Release) [Nintendo Switch\, Nintendo Sw
  itch 2\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox Ser
  ies X|S]
 DTSTART;VALUE=DATE:20260820
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:steins-gate-re-boot-Full Release-2026-08-20@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/steins-gate-re-boot
 END:VEVENT
@@ -190,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:Steins\;Gate Re:Boot (Full Release) [Nintendo Switch\, Nintendo Sw
  itch 2\, PlayStation 5]
 DTSTART;VALUE=DATE:20261029
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:steins-gate-re-boot-Full Release-2026-10-29@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/steins-gate-re-boot
 END:VEVENT
@@ -198,7 +236,7 @@ BEGIN:VEVENT
 SUMMARY:Mafia: The Old Country - Man of Honor (Full Release) [PC (Microsof
  t Windows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260814
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:mafia-the-old-country-man-of-honor-Full Release-2026-08-14@pankomann.g
  ithub.io
 DESCRIPTION:https://www.igdb.com/games/mafia-the-old-country-man-of-honor
@@ -206,7 +244,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Donut Panic (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:donut-panic-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/donut-panic
 END:VEVENT
@@ -214,14 +252,14 @@ BEGIN:VEVENT
 SUMMARY:One Piece: Grand Gourmet (Full Release) [Android\, Nintendo Switch
  \, Nintendo Switch 2\, PC (Microsoft Windows)\, iOS]
 DTSTART;VALUE=DATE:20261023
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:one-piece-grand-gourmet-Full Release-2026-10-23@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/one-piece-grand-gourmet
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Abyss X Zero (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:abyss-x-zero-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/abyss-x-zero
 END:VEVENT
@@ -229,21 +267,21 @@ BEGIN:VEVENT
 SUMMARY:Psycho Dead (Full Release) [PC (Microsoft Windows)\, PlayStation 5
  ]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:psycho-dead-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/psycho-dead
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Exo Rally Championship (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260607
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:exo-rally-championship-Full Release-2026-06-07@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/exo-rally-championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fragile Existence (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:fragile-existence-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/fragile-existence
 END:VEVENT
@@ -251,7 +289,7 @@ BEGIN:VEVENT
 SUMMARY:Silent Hill: Townfall (Full Release) [PC (Microsoft Windows)\, Pla
  yStation 5]
 DTSTART;VALUE=DATE:20260924
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:silent-hill-townfall-Full Release-2026-09-24@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/silent-hill-townfall
 END:VEVENT
@@ -259,7 +297,7 @@ BEGIN:VEVENT
 SUMMARY:Out of Words (Full Release) [Nintendo Switch 2\, PC (Microsoft Win
  dows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20270331
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:out-of-words-Full Release-2027-03-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/out-of-words
 END:VEVENT
@@ -267,35 +305,35 @@ BEGIN:VEVENT
 SUMMARY:Glaciered (Full Release) [Nintendo Switch 2\, PC (Microsoft Window
  s)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:glaciered-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/glaciered
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dinoblade (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260723
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:dinoblade-Full Release-2026-07-23@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/dinoblade
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Clawed (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260723
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:clawed-Full Release-2026-07-23@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/clawed
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wild Life (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20270208
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:wild-life-Full Release-2027-02-08@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/wild-life
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Petal Runner (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:petal-runner-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/petal-runner
 END:VEVENT
@@ -303,14 +341,14 @@ BEGIN:VEVENT
 SUMMARY:Toxic Crusaders (Full Release) [Nintendo Switch\, PC (Microsoft Wi
  ndows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:toxic-crusaders--4-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/toxic-crusaders--4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Garbage Country (Full Release) [Mac\, PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:garbage-country-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/garbage-country
 END:VEVENT
@@ -318,43 +356,35 @@ BEGIN:VEVENT
 SUMMARY:Attack on Titan 3 (Full Release) [Nintendo Switch 2\, PC (Microsof
  t Windows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:attack-on-titan-3-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/attack-on-titan-3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kernel Hearts (Full Release) [Nintendo Switch 2\, PC (Microsoft Wi
- ndows)\, PlayStation 5\, Xbox Series X|S]
-DTSTART;VALUE=DATE:20260901
-DTSTAMP:20260702T035052Z
-UID:kernel-hearts-Full Release-2026-09-01@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/kernel-hearts
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Becrowned (Full Release) [Mac\, PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:becrowned-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/becrowned
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Marvel's Wolverine (Full Release) [PlayStation 5]
 DTSTART;VALUE=DATE:20260915
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:marvels-wolverine-Full Release-2026-09-15@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/marvels-wolverine
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Splatoon Raiders (Full Release) [Nintendo Switch 2]
 DTSTART;VALUE=DATE:20260723
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:splatoon-raiders-Full Release-2026-07-23@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/splatoon-raiders
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bellum (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:bellum-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/bellum
 END:VEVENT
@@ -362,7 +392,7 @@ BEGIN:VEVENT
 SUMMARY:Chronoscript: The Endless End (Full Release) [PC (Microsoft Window
  s)\, PlayStation 5]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:chronoscript-the-endless-end-Full Release-2026-12-31@pankomann.github.
  io
 DESCRIPTION:https://www.igdb.com/games/chronoscript-the-endless-end
@@ -370,28 +400,21 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Duskbloods (Full Release) [Nintendo Switch 2]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:the-duskbloods-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/the-duskbloods
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sand: Raiders Of Sophie (Early Access) [PC (Microsoft Windows)]
-DTSTART;VALUE=DATE:20260622
-DTSTAMP:20260702T035052Z
-UID:sand-raiders-of-sophie-Early Access-2026-06-22@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/sand-raiders-of-sophie
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Skyblivion (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:skyblivion-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/skyblivion
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BloomKeeper (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260916
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:bloomkeeper-Full Release-2026-09-16@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/bloomkeeper
 END:VEVENT
@@ -399,7 +422,7 @@ BEGIN:VEVENT
 SUMMARY:Assassin's Creed Black Flag Resynced (Full Release) [PC (Microsoft
   Windows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260709
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:assassins-creed-black-flag-resynced-Full Release-2026-07-09@pankomann.
  github.io
 DESCRIPTION:https://www.igdb.com/games/assassins-creed-black-flag-resynced
@@ -408,7 +431,7 @@ BEGIN:VEVENT
 SUMMARY:Ace Combat 8: Wings of Theve (Full Release) [PC (Microsoft Windows
  )\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261002
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:ace-combat-8-wings-of-theve-Full Release-2026-10-02@pankomann.github.i
  o
 DESCRIPTION:https://www.igdb.com/games/ace-combat-8-wings-of-theve
@@ -417,7 +440,7 @@ BEGIN:VEVENT
 SUMMARY:Ace Combat 8: Wings of Theve (Advanced Access) [PC (Microsoft Wind
  ows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260929
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:ace-combat-8-wings-of-theve-Advanced Access-2026-09-29@pankomann.githu
  b.io
 DESCRIPTION:https://www.igdb.com/games/ace-combat-8-wings-of-theve
@@ -425,7 +448,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Decrepit (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:decrepit--1-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/decrepit--1
 END:VEVENT
@@ -433,74 +456,23 @@ BEGIN:VEVENT
 SUMMARY:Kitsune: The Journey of Adashino (Full Release) [Mac\, PC (Microso
  ft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:kitsune-the-journey-of-adashino-Full Release-2026-12-31@pankomann.gith
  ub.io
 DESCRIPTION:https://www.igdb.com/games/kitsune-the-journey-of-adashino
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arcane Eats (Full Release) [PC (Microsoft Windows)]
-DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
-UID:arcane-eats-Full Release-2026-12-31@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/arcane-eats
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shutter Story (Full Release) [PC (Microsoft Windows)]
-DTSTART;VALUE=DATE:20260930
-DTSTAMP:20260702T035052Z
-UID:shutter-story-Full Release-2026-09-30@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/shutter-story
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chivalware (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:chivalware-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/chivalware
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Halo: Campaign Evolved (Full Release) [PC (Microsoft Windows)\, Pl
- ayStation 5\, Xbox Series X|S]
-DTSTART;VALUE=DATE:20260728
-DTSTAMP:20260702T035052Z
-UID:halo-campaign-evolved-Full Release-2026-07-28@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/halo-campaign-evolved
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Halo: Campaign Evolved (Advanced Access) [PC (Microsoft Windows)\,
-  PlayStation 5\, Xbox Series X|S]
-DTSTART;VALUE=DATE:20260723
-DTSTAMP:20260702T035052Z
-UID:halo-campaign-evolved-Advanced Access-2026-07-23@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/halo-campaign-evolved
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dawn of Defense (Beta) [PC (Microsoft Windows)]
-DTSTART;VALUE=DATE:20241003
-DTSTAMP:20260702T035052Z
-UID:dawn-of-defense-Beta-2024-10-03@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/dawn-of-defense
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dawn of Defense (Full Release) [PC (Microsoft Windows)]
-DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
-UID:dawn-of-defense-Full Release-2026-12-31@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/dawn-of-defense
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Star Fox (Full Release) [Nintendo Switch 2]
-DTSTART;VALUE=DATE:20260625
-DTSTAMP:20260702T035052Z
-UID:star-fox--5-Full Release-2026-06-25@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/star-fox--5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Psi-Ops: The Mindgate Conspiracy (Full Release) [PlayStation 4\, P
  layStation 5]
 DTSTART;VALUE=DATE:20260701
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:psi-ops-the-mindgate-conspiracy--1-Full Release-2026-07-01@pankomann.g
  ithub.io
 DESCRIPTION:https://www.igdb.com/games/psi-ops-the-mindgate-conspiracy--1
@@ -510,71 +482,31 @@ SUMMARY:He-Man and the Masters of the Universe: Dragon Pearl of Destructio
  n (Full Release) [Nintendo Switch\, PC (Microsoft Windows)\, PlayStation 4
  \, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260930
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:he-man-and-the-masters-of-the-universe-dragon-pearl-of-destruction-Ful
  l Release-2026-09-30@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/he-man-and-the-masters-of-the-unive
  rse-dragon-pearl-of-destruction
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Mound: Omen of Cthulhu (Full Release) [Linux\, PC (Microsoft W
- indows)\, PlayStation 5\, Xbox Series X|S]
-DTSTART;VALUE=DATE:20260715
-DTSTAMP:20260702T035052Z
-UID:the-mound-omen-of-cthulhu-Full Release-2026-07-15@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/the-mound-omen-of-cthulhu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dressmaker (Alpha) [Linux\, Mac\, PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20250729
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:dressmaker--1-Alpha-2025-07-29@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/dressmaker--1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dressmaker (Full Release) [Linux\, Mac\, PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260901
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:dressmaker--1-Full Release-2026-09-01@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/dressmaker--1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dive or Die: Children of Rain (Full Release) [PC (Microsoft Window
- s)]
-DTSTART;VALUE=DATE:20260721
-DTSTAMP:20260702T035052Z
-UID:dive-or-die-children-of-rain-Full Release-2026-07-21@pankomann.github.
- io
-DESCRIPTION:https://www.igdb.com/games/dive-or-die-children-of-rain
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gears of War: E-Day (Full Release) [PC (Microsoft Windows)\, Xbox 
- Series X|S]
-DTSTART;VALUE=DATE:20261006
-DTSTAMP:20260702T035052Z
-UID:gears-of-war-e-day-Full Release-2026-10-06@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/gears-of-war-e-day
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gears of War: E-Day (Advanced Access) [PC (Microsoft Windows)\, Xb
- ox Series X|S]
-DTSTART;VALUE=DATE:20261001
-DTSTAMP:20260702T035052Z
-UID:gears-of-war-e-day-Advanced Access-2026-10-01@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/gears-of-war-e-day
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gears of War: E-Day (Cancelled) [PlayStation 5]
-DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
-UID:gears-of-war-e-day-Cancelled-2026-12-31@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/gears-of-war-e-day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Beast of Reincarnation (Full Release) [PC (Microsoft Windows)\, Pl
  ayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260804
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:beast-of-reincarnation-Full Release-2026-08-04@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/beast-of-reincarnation
 END:VEVENT
@@ -582,7 +514,7 @@ BEGIN:VEVENT
 SUMMARY:Lords of the Fallen II (Full Release) [Nintendo Switch 2\, PC (Mic
  rosoft Windows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20270331
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:lords-of-the-fallen-ii-Full Release-2027-03-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/lords-of-the-fallen-ii
 END:VEVENT
@@ -590,178 +522,70 @@ BEGIN:VEVENT
 SUMMARY:Deep Dish Dungeon (Full Release) [PC (Microsoft Windows)\, Xbox Se
  ries X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:deep-dish-dungeon-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/deep-dish-dungeon
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Call of Duty: Modern Warfare 4 (Full Release) [Nintendo Switch 2\,
-  PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-DTSTART;VALUE=DATE:20261023
-DTSTAMP:20260702T035052Z
-UID:call-of-duty-modern-warfare-4-Full Release-2026-10-23@pankomann.github
- .io
-DESCRIPTION:https://www.igdb.com/games/call-of-duty-modern-warfare-4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:As One We Survive (Early Access) [PC (Microsoft Windows)]
-DTSTART;VALUE=DATE:20260630
-DTSTAMP:20260702T035052Z
-UID:as-one-we-survive-Early Access-2026-06-30@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/as-one-we-survive
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Welcome to Elderfield (Alpha) [PC (Microsoft Windows)]
-DTSTART;VALUE=DATE:20241010
-DTSTAMP:20260702T035052Z
-UID:welcome-to-elderfield-Alpha-2024-10-10@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/welcome-to-elderfield
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Welcome to Elderfield (Full Release) [PC (Microsoft Windows)]
-DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
-UID:welcome-to-elderfield-Full Release-2026-12-31@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/welcome-to-elderfield
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dungeons of Dusk (Full Release) [Linux\, PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:dungeons-of-dusk-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/dungeons-of-dusk
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Screenbound (Full Release) [PC (Microsoft Windows)\, PlayStation 5
- \, Xbox Series X|S]
-DTSTART;VALUE=DATE:20260910
-DTSTAMP:20260702T035052Z
-UID:screenbound-Full Release-2026-09-10@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/screenbound
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EVE Vanguard (Full Release) [PC (Microsoft Windows)]
-DTSTART;VALUE=DATE:20260930
-DTSTAMP:20260702T035052Z
-UID:eve-vanguard-Full Release-2026-09-30@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/eve-vanguard
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Edge of Memories (Full Release) [PC (Microsoft Windows)\, PlayStat
- ion 5\, Xbox Series X|S]
-DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
-UID:edge-of-memories-Full Release-2026-12-31@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/edge-of-memories
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Adventures of Elliot: The Millennium Tales (Full Release) [Nin
- tendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-DTSTART;VALUE=DATE:20260618
-DTSTAMP:20260702T035052Z
-UID:the-adventures-of-elliot-the-millennium-tales-Full Release-2026-06-18@
- pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/the-adventures-of-elliot-the-millen
- nium-tales
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Broken Sword: The Smoking Mirror - Reforged (Full Release) [Ninten
  do Switch\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:broken-sword-the-smoking-mirror-reforged-Full Release-2026-12-31@panko
  mann.github.io
 DESCRIPTION:https://www.igdb.com/games/broken-sword-the-smoking-mirror-ref
  orged
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gothic 1 Remake (Full Release) [PC (Microsoft Windows)\, PlayStati
- on 5\, Xbox Series X|S]
-DTSTART;VALUE=DATE:20260605
-DTSTAMP:20260702T035052Z
-UID:gothic-1-remake-Full Release-2026-06-05@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/gothic-1-remake
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Desktop Explorer (Alpha) [Mac\, PC (Microsoft Windows)]
-DTSTART;VALUE=DATE:20230625
-DTSTAMP:20260702T035052Z
-UID:desktop-explorer-Alpha-2023-06-25@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/desktop-explorer
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Desktop Explorer (Full Release) [Mac\, PC (Microsoft Windows)]
-DTSTART;VALUE=DATE:20260717
-DTSTAMP:20260702T035052Z
-UID:desktop-explorer-Full Release-2026-07-17@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/desktop-explorer
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Serious Sam: Shatterverse (Full Release) [PC (Microsoft Windows)\,
   PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:serious-sam-shatterverse-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/serious-sam-shatterverse
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hollow Home (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:hollow-home-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/hollow-home
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Life and Suffering of Prince Jerian (Full Release) [PC (Micros
- oft Windows)]
-DTSTART;VALUE=DATE:20260720
-DTSTAMP:20260702T035052Z
-UID:the-life-and-suffering-of-prince-jerian-Full Release-2026-07-20@pankom
- ann.github.io
-DESCRIPTION:https://www.igdb.com/games/the-life-and-suffering-of-prince-je
- rian
+SUMMARY:The Eternal Life of Goldman (Full Release) [Nintendo Switch\, PC (
+ Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+DTSTART;VALUE=DATE:20261231
+DTSTAMP:20260703T033222Z
+UID:the-eternal-life-of-goldman-Full Release-2026-12-31@pankomann.github.i
+ o
+DESCRIPTION:https://www.igdb.com/games/the-eternal-life-of-goldman
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:As One We Survive (Early Access) [PC (Microsoft Windows)]
+DTSTART;VALUE=DATE:20260630
+DTSTAMP:20260703T033222Z
+UID:as-one-we-survive-Early Access-2026-06-30@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/as-one-we-survive
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crimson Moon (Full Release) [PC (Microsoft Windows)\, PlayStation 
  5]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:crimson-moon--1-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/crimson-moon--1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fading Echo (Full Release) [PlayStation 5\, Xbox Series X|S]
-DTSTART;VALUE=DATE:20260930
-DTSTAMP:20260702T035052Z
-UID:fading-echo-Full Release-2026-09-30@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/fading-echo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fading Echo (Full Release) [PC (Microsoft Windows)]
-DTSTART;VALUE=DATE:20260721
-DTSTAMP:20260702T035052Z
-UID:fading-echo-Full Release-2026-07-21@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/fading-echo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SpaceCraft (Early Access) [PC (Microsoft Windows)]
-DTSTART;VALUE=DATE:20260611
-DTSTAMP:20260702T035052Z
-UID:spacecraft--2-Early Access-2026-06-11@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/spacecraft--2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mexican Ninja (Full Release) [PC (Microsoft Windows)\, PlayStation
-  4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
-DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
-UID:mexican-ninja-Full Release-2026-12-31@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/mexican-ninja
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ReStory (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:restory-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/restory
 END:VEVENT
@@ -769,25 +593,15 @@ BEGIN:VEVENT
 SUMMARY:Building Relationships (Full Release) [Mac\, PC (Microsoft Windows
  )\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:building-relationships-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/building-relationships
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Alighieri Circle: Dante’s Bloodline (Full Release) [PC (Micr
- osoft Windows)]
-DTSTART;VALUE=DATE:20260910
-DTSTAMP:20260702T035052Z
-UID:the-alighieri-circle-dantes-bloodline-Full Release-2026-09-10@pankoman
- n.github.io
-DESCRIPTION:https://www.igdb.com/games/the-alighieri-circle-dantes-bloodli
- ne
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Witchbrook (Full Release) [Nintendo Switch\, Nintendo Switch 2\, P
  C (Microsoft Windows)\, Xbox One\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:witchbrook-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/witchbrook
 END:VEVENT
@@ -795,7 +609,7 @@ BEGIN:VEVENT
 SUMMARY:Hell Let Loose: Vietnam (Full Release) [PC (Microsoft Windows)\, P
  layStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260813
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:hell-let-loose-vietnam-Full Release-2026-08-13@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/hell-let-loose-vietnam
 END:VEVENT
@@ -803,7 +617,7 @@ BEGIN:VEVENT
 SUMMARY:Ontos (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xbo
  x Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:ontos-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/ontos
 END:VEVENT
@@ -811,7 +625,7 @@ BEGIN:VEVENT
 SUMMARY:Warhammer 40\,000: Boltgun 2 (Full Release) [PC (Microsoft Windows
  )\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:warhammer-40000-boltgun-2-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/warhammer-40000-boltgun-2
 END:VEVENT
@@ -819,21 +633,21 @@ BEGIN:VEVENT
 SUMMARY:The Witch's Bakery (Full Release) [Nintendo Switch\, Nintendo Swit
  ch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260820
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:the-witchs-bakery-Full Release-2026-08-20@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/the-witchs-bakery
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EverQuest Legends (Beta) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260424
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:everquest-legends-Beta-2026-04-24@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/everquest-legends
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EverQuest Legends (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260728
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:everquest-legends-Full Release-2026-07-28@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/everquest-legends
 END:VEVENT
@@ -841,7 +655,7 @@ BEGIN:VEVENT
 SUMMARY:Liminal Point (Full Release) [PC (Microsoft Windows)\, PlayStation
   5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:liminal-point-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/liminal-point
 END:VEVENT
@@ -849,7 +663,7 @@ BEGIN:VEVENT
 SUMMARY:Muramasa: Revenant Blades (Full Release) [Nintendo Switch\, Ninten
  do Switch 2\, PC (Microsoft Windows)\, PlayStation 5]
 DTSTART;VALUE=DATE:20270331
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:muramasa-revenant-blades-Full Release-2027-03-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/muramasa-revenant-blades
 END:VEVENT
@@ -857,23 +671,15 @@ BEGIN:VEVENT
 SUMMARY:Starfinder: Afterlight (Full Release) [Linux\, PC (Microsoft Windo
  ws)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:starfinder-afterlight-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/starfinder-afterlight
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moss: The Forgotten Relic (Full Release) [Nintendo Switch\, Ninten
- do Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-DTSTART;VALUE=DATE:20260716
-DTSTAMP:20260702T035052Z
-UID:moss-the-forgotten-relic-Full Release-2026-07-16@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/moss-the-forgotten-relic
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Defender of the Crown: The Legend Returns (Full Release) [Nintendo
   Switch\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260813
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:defender-of-the-crown-the-legend-returns-Full Release-2026-08-13@panko
  mann.github.io
 DESCRIPTION:https://www.igdb.com/games/defender-of-the-crown-the-legend-re
@@ -883,21 +689,23 @@ BEGIN:VEVENT
 SUMMARY:Agni: Village of Calamity (Full Release) [PC (Microsoft Windows)\,
   PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:agni-village-of-calamity-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/agni-village-of-calamity
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rhythm Heaven Groove (Full Release) [Nintendo Switch]
-DTSTART;VALUE=DATE:20260702
-DTSTAMP:20260702T035052Z
-UID:rhythm-heaven-groove-Full Release-2026-07-02@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/rhythm-heaven-groove
+SUMMARY:Call of Duty: Modern Warfare 4 (Full Release) [Nintendo Switch 2\,
+  PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+DTSTART;VALUE=DATE:20261023
+DTSTAMP:20260703T033222Z
+UID:call-of-duty-modern-warfare-4-Full Release-2026-10-23@pankomann.github
+ .io
+DESCRIPTION:https://www.igdb.com/games/call-of-duty-modern-warfare-4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surviving Deponia (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:surviving-deponia-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/surviving-deponia
 END:VEVENT
@@ -905,46 +713,23 @@ BEGIN:VEVENT
 SUMMARY:Deltarune: Chapter 5 (Full Release) [Mac\, Nintendo Switch\, Ninte
  ndo Switch 2\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5]
 DTSTART;VALUE=DATE:20260624
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:deltarune-chapter-5-Full Release-2026-06-24@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/deltarune-chapter-5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:D-topia (Full Release) [Nintendo Switch\, Nintendo Switch 2\, PC (
- Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-DTSTART;VALUE=DATE:20260714
-DTSTAMP:20260702T035052Z
-UID:d-topia-Full Release-2026-07-14@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/d-topia
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Remothered: Red Nun's Legacy (Full Release) [Nintendo Switch 2\, P
  C (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:remothered-red-nuns-legacy-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/remothered-red-nuns-legacy
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crushed in Time (Full Release) [PC (Microsoft Windows)]
-DTSTART;VALUE=DATE:20260610
-DTSTAMP:20260702T035052Z
-UID:crushed-in-time-Full Release-2026-06-10@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/crushed-in-time
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nocturnal II (Full Release) [Nintendo Switch\, PC (Microsoft Windo
- ws)]
-DTSTART;VALUE=DATE:20260630
-DTSTAMP:20260702T035052Z
-UID:nocturnal-ii-Full Release-2026-06-30@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/nocturnal-ii
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trails in the Sky 2nd Chapter (Full Release) [Nintendo Switch\, Ni
  ntendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5]
 DTSTART;VALUE=DATE:20260917
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:trails-in-the-sky-2nd-chapter-Full Release-2026-09-17@pankomann.github
  .io
 DESCRIPTION:https://www.igdb.com/games/trails-in-the-sky-2nd-chapter
@@ -952,14 +737,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nivalis (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:nivalis-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/nivalis
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zwaard (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:zwaard-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/zwaard
 END:VEVENT
@@ -967,7 +752,7 @@ BEGIN:VEVENT
 SUMMARY:BrokenLore: Ascend (Full Release) [PC (Microsoft Windows)\, PlaySt
  ation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:brokenlore-ascend-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/brokenlore-ascend
 END:VEVENT
@@ -975,7 +760,7 @@ BEGIN:VEVENT
 SUMMARY:Marvel Tokon: Fighting Souls (Full Release) [PC (Microsoft Windows
  )\, PlayStation 5]
 DTSTART;VALUE=DATE:20260806
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:marvel-tokon-fighting-souls-Full Release-2026-08-06@pankomann.github.i
  o
 DESCRIPTION:https://www.igdb.com/games/marvel-tokon-fighting-souls
@@ -984,14 +769,14 @@ BEGIN:VEVENT
 SUMMARY:Control Resonant (Full Release) [Mac\, PC (Microsoft Windows)\, Pl
  ayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260924
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:control-resonant--1-Full Release-2026-09-24@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/control-resonant--1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Control Resonant (Advanced Access) [PlayStation 5]
 DTSTART;VALUE=DATE:20260922
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:control-resonant--1-Advanced Access-2026-09-22@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/control-resonant--1
 END:VEVENT
@@ -999,7 +784,7 @@ BEGIN:VEVENT
 SUMMARY:Iron Nest: Heavy Turret Simulator (Full Release) [PC (Microsoft Wi
  ndows)]
 DTSTART;VALUE=DATE:20260806
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:iron-nest-heavy-turret-simulator-Full Release-2026-08-06@pankomann.git
  hub.io
 DESCRIPTION:https://www.igdb.com/games/iron-nest-heavy-turret-simulator
@@ -1008,7 +793,7 @@ BEGIN:VEVENT
 SUMMARY:Phantom Blade 0 (Full Release) [PC (Microsoft Windows)\, PlayStati
  on 5]
 DTSTART;VALUE=DATE:20261029
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:phantom-blade-0-Full Release-2026-10-29@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/phantom-blade-0
 END:VEVENT
@@ -1017,31 +802,15 @@ SUMMARY:Warhammer Survivors (Full Release) [Android\, Nintendo Switch\, Ni
  ntendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox One\, Xbox
   Series X|S\, iOS]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:warhammer-survivors-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/warhammer-survivors
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Copa City (Full Release) [PC (Microsoft Windows)]
-DTSTART;VALUE=DATE:20260616
-DTSTAMP:20260702T035052Z
-UID:copa-city-Full Release-2026-06-16@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/copa-city
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tavern Talk Stories: Dreamwalker (Full Release) [Mac\, Nintendo Sw
- itch\, PC (Microsoft Windows)]
-DTSTART;VALUE=DATE:20260609
-DTSTAMP:20260702T035052Z
-UID:tavern-talk-stories-dreamwalker-Full Release-2026-06-09@pankomann.gith
- ub.io
-DESCRIPTION:https://www.igdb.com/games/tavern-talk-stories-dreamwalker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:End of Abyss (Full Release) [PC (Microsoft Windows)\, PlayStation 
  5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261001
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:end-of-abyss-Full Release-2026-10-01@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/end-of-abyss
 END:VEVENT
@@ -1049,51 +818,43 @@ BEGIN:VEVENT
 SUMMARY:Duskfade (Full Release) [Nintendo Switch 2\, PC (Microsoft Windows
  )\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260813
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:duskfade--1-Full Release-2026-08-13@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/duskfade--1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lord of Mysteries (Full Release) [iOS]
 DTSTART;VALUE=DATE:20261101
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:lord-of-mysteries-Full Release-2026-11-01@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/lord-of-mysteries
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Survival Machine (Early Access) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20250507
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:survival-machine-Early Access-2025-05-07@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/survival-machine
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Survival Machine (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260612
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:survival-machine-Full Release-2026-06-12@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/survival-machine
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BrokenLore: Don't Lie (Full Release) [PC (Microsoft Windows)\, Pla
- yStation 5\, Xbox Series X|S]
-DTSTART;VALUE=DATE:20260910
-DTSTAMP:20260702T035052Z
-UID:brokenlore-dont-lie-Full Release-2026-09-10@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/brokenlore-dont-lie
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DecaPolice (Full Release) [Nintendo Switch 2\, PC (Microsoft Windo
  ws)\, PlayStation 5]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:decapolice-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/decapolice
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Killer Bean (Early Access) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260608
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:killer-bean-Early Access-2026-06-08@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/killer-bean
 END:VEVENT
@@ -1101,38 +862,15 @@ BEGIN:VEVENT
 SUMMARY:Showa American Story (Full Release) [PC (Microsoft Windows)\, Play
  Station 5]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:showa-american-story-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/showa-american-story
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Eternal Life of Goldman (Full Release) [Nintendo Switch\, PC (
- Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
-UID:the-eternal-life-of-goldman-Full Release-2026-12-31@pankomann.github.i
- o
-DESCRIPTION:https://www.igdb.com/games/the-eternal-life-of-goldman
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Acts of Blood (Full Release) [PC (Microsoft Windows)]
-DTSTART;VALUE=DATE:20260930
-DTSTAMP:20260702T035052Z
-UID:acts-of-blood-Full Release-2026-09-30@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/acts-of-blood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tempus Triad (Full Release) [PC (Microsoft Windows)]
-DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
-UID:tempus-triad-Full Release-2026-12-31@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/tempus-triad
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dragon's Dogma II: Dark Arisen (Full Release) [Nintendo Switch 2\,
   PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261009
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:dragons-dogma-ii-dark-arisen-Full Release-2026-10-09@pankomann.github.
  io
 DESCRIPTION:https://www.igdb.com/games/dragons-dogma-ii-dark-arisen
@@ -1140,7 +878,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fire Emblem: Fortune's Weave (Full Release) [Nintendo Switch 2]
 DTSTART;VALUE=DATE:20260917
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:fire-emblem-fortunes-weave-Full Release-2026-09-17@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/fire-emblem-fortunes-weave
 END:VEVENT
@@ -1149,14 +887,14 @@ SUMMARY:Postal 2 Redux (Full Release) [Linux\, Mac\, Nintendo Switch\, PC
  (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox One\, Xbox Seri
  es X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:postal-2-redux-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/postal-2-redux
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Orbitals (Full Release) [Nintendo Switch 2]
 DTSTART;VALUE=DATE:20260903
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:orbitals--1-Full Release-2026-09-03@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/orbitals--1
 END:VEVENT
@@ -1164,15 +902,22 @@ BEGIN:VEVENT
 SUMMARY:Grand Theft Auto VI (Full Release) [PlayStation 5\, Xbox Series X|
  S]
 DTSTART;VALUE=DATE:20261119
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:grand-theft-auto-vi-Full Release-2026-11-19@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/grand-theft-auto-vi
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Star Fox (Full Release) [Nintendo Switch 2]
+DTSTART;VALUE=DATE:20260625
+DTSTAMP:20260703T033222Z
+UID:star-fox--5-Full Release-2026-06-25@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/star-fox--5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dimhaven: The Lost Source (Full Release) [PlayStation 5\, Xbox Ser
  ies X|S]
 DTSTART;VALUE=DATE:20260630
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:dimhaven-the-lost-source-Full Release-2026-06-30@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/dimhaven-the-lost-source
 END:VEVENT
@@ -1180,15 +925,22 @@ BEGIN:VEVENT
 SUMMARY:Dimhaven: The Lost Source (Full Release) [Mac\, PC (Microsoft Wind
  ows)]
 DTSTART;VALUE=DATE:20260623
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:dimhaven-the-lost-source-Full Release-2026-06-23@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/dimhaven-the-lost-source
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhythm Heaven Groove (Full Release) [Nintendo Switch]
+DTSTART;VALUE=DATE:20260702
+DTSTAMP:20260703T033222Z
+UID:rhythm-heaven-groove-Full Release-2026-07-02@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/rhythm-heaven-groove
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dynasty Warriors 3: Complete Edition Remastered (Full Release) [Ni
  ntendo Switch 2\, PC (Microsoft Windows)\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:dynasty-warriors-3-complete-edition-remastered-Full Release-2026-12-31
  @pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/dynasty-warriors-3-complete-edition
@@ -1198,75 +950,116 @@ BEGIN:VEVENT
 SUMMARY:Dynasty Warriors 3: Complete Edition Remastered (Full Release) [Pl
  ayStation 5]
 DTSTART;VALUE=DATE:20261001
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:dynasty-warriors-3-complete-edition-remastered-Full Release-2026-10-01
  @pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/dynasty-warriors-3-complete-edition
  -remastered
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toem 2 (Full Release) [Nintendo Switch\, PC (Microsoft Windows)\, 
- PlayStation 5]
-DTSTART;VALUE=DATE:20260930
-DTSTAMP:20260702T035052Z
-UID:toem-2-Full Release-2026-09-30@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/toem-2
+SUMMARY:Gothic 1 Remake (Full Release) [PC (Microsoft Windows)\, PlayStati
+ on 5\, Xbox Series X|S]
+DTSTART;VALUE=DATE:20260605
+DTSTAMP:20260703T033222Z
+UID:gothic-1-remake-Full Release-2026-06-05@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/gothic-1-remake
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inkblood (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:inkblood-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/inkblood
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SpaceCraft (Early Access) [PC (Microsoft Windows)]
+DTSTART;VALUE=DATE:20260611
+DTSTAMP:20260703T033222Z
+UID:spacecraft--2-Early Access-2026-06-11@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/spacecraft--2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Warhammer 40\,000: Dawn of War IV (Advanced Access) [PC (Microsoft
+  Windows)]
+DTSTART;VALUE=DATE:20260914
+DTSTAMP:20260703T033222Z
+UID:warhammer-40000-dawn-of-war-iv-Advanced Access-2026-09-14@pankomann.gi
+ thub.io
+DESCRIPTION:https://www.igdb.com/games/warhammer-40000-dawn-of-war-iv
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Warhammer 40\,000: Dawn of War IV (Full Release) [PC (Microsoft Wi
+ ndows)]
+DTSTART;VALUE=DATE:20260917
+DTSTAMP:20260703T033222Z
+UID:warhammer-40000-dawn-of-war-iv-Full Release-2026-09-17@pankomann.githu
+ b.io
+DESCRIPTION:https://www.igdb.com/games/warhammer-40000-dawn-of-war-iv
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nintendo Switch Sports Resort (Full Release) [Nintendo Switch 2]
 DTSTART;VALUE=DATE:20261022
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:nintendo-switch-sports-resort-Full Release-2026-10-22@pankomann.github
  .io
 DESCRIPTION:https://www.igdb.com/games/nintendo-switch-sports-resort
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dive or Die: Children of Rain (Full Release) [PC (Microsoft Window
+ s)]
+DTSTART;VALUE=DATE:20260721
+DTSTAMP:20260703T033222Z
+UID:dive-or-die-children-of-rain-Full Release-2026-07-21@pankomann.github.
+ io
+DESCRIPTION:https://www.igdb.com/games/dive-or-die-children-of-rain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sand: Raiders Of Sophie (Early Access) [PC (Microsoft Windows)]
+DTSTART;VALUE=DATE:20260622
+DTSTAMP:20260703T033222Z
+UID:sand-raiders-of-sophie-Early Access-2026-06-22@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/sand-raiders-of-sophie
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:They Will Come (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260701
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:they-will-come-Full Release-2026-07-01@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/they-will-come
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gummy Nightmares (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:gummy-nightmares-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/gummy-nightmares
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:13Z (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:13z-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/13z
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lifted (Full Release) [Nintendo Switch 2\, PlayStation 5]
-DTSTART;VALUE=DATE:20260930
-DTSTAMP:20260702T035052Z
-UID:lifted-Full Release-2026-09-30@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/lifted
+SUMMARY:Desktop Explorer (Alpha) [Mac\, PC (Microsoft Windows)]
+DTSTART;VALUE=DATE:20230625
+DTSTAMP:20260703T033222Z
+UID:desktop-explorer-Alpha-2023-06-25@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/desktop-explorer
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lifted (Full Release) [Linux\, Mac\, PC (Microsoft Windows)]
-DTSTART;VALUE=DATE:20260722
-DTSTAMP:20260702T035052Z
-UID:lifted-Full Release-2026-07-22@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/lifted
+SUMMARY:Desktop Explorer (Full Release) [Mac\, PC (Microsoft Windows)]
+DTSTART;VALUE=DATE:20260717
+DTSTAMP:20260703T033222Z
+UID:desktop-explorer-Full Release-2026-07-17@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/desktop-explorer
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:V.E.D.A: The Awakening of Souls (Full Release) [Nintendo Switch\, 
  PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:v-dot-e-d-dot-a-the-awakening-of-souls-Full Release-2026-12-31@pankoma
  nn.github.io
 DESCRIPTION:https://www.igdb.com/games/v-dot-e-d-dot-a-the-awakening-of-so
@@ -1276,14 +1069,214 @@ BEGIN:VEVENT
 SUMMARY:Halloween: The Game (Full Release) [PC (Microsoft Windows)\, PlayS
  tation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260908
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:halloween-the-game-Full Release-2026-09-08@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/halloween-the-game
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tempus Triad (Full Release) [PC (Microsoft Windows)]
+DTSTART;VALUE=DATE:20261231
+DTSTAMP:20260703T033222Z
+UID:tempus-triad-Full Release-2026-12-31@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/tempus-triad
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kernel Hearts (Full Release) [Nintendo Switch 2\, PC (Microsoft Wi
+ ndows)\, PlayStation 5\, Xbox Series X|S]
+DTSTART;VALUE=DATE:20260901
+DTSTAMP:20260703T033222Z
+UID:kernel-hearts-Full Release-2026-09-01@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/kernel-hearts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Life and Suffering of Prince Jerian (Full Release) [PC (Micros
+ oft Windows)]
+DTSTART;VALUE=DATE:20260720
+DTSTAMP:20260703T033222Z
+UID:the-life-and-suffering-of-prince-jerian-Full Release-2026-07-20@pankom
+ ann.github.io
+DESCRIPTION:https://www.igdb.com/games/the-life-and-suffering-of-prince-je
+ rian
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toem 2 (Full Release) [Nintendo Switch\, PC (Microsoft Windows)\, 
+ PlayStation 5]
+DTSTART;VALUE=DATE:20260930
+DTSTAMP:20260703T033222Z
+UID:toem-2-Full Release-2026-09-30@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/toem-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Halo: Campaign Evolved (Full Release) [PC (Microsoft Windows)\, Pl
+ ayStation 5\, Xbox Series X|S]
+DTSTART;VALUE=DATE:20260728
+DTSTAMP:20260703T033222Z
+UID:halo-campaign-evolved-Full Release-2026-07-28@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/halo-campaign-evolved
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Halo: Campaign Evolved (Advanced Access) [PC (Microsoft Windows)\,
+  PlayStation 5\, Xbox Series X|S]
+DTSTART;VALUE=DATE:20260723
+DTSTAMP:20260703T033222Z
+UID:halo-campaign-evolved-Advanced Access-2026-07-23@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/halo-campaign-evolved
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planet Zoo 2 (Full Release) [PC (Microsoft Windows)\, PlayStation 
+ 5\, Xbox Series X|S]
+DTSTART;VALUE=DATE:20261013
+DTSTAMP:20260703T033222Z
+UID:planet-zoo-2-Full Release-2026-10-13@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/planet-zoo-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arcane Eats (Full Release) [PC (Microsoft Windows)]
+DTSTART;VALUE=DATE:20261231
+DTSTAMP:20260703T033222Z
+UID:arcane-eats-Full Release-2026-12-31@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/arcane-eats
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Welcome to Elderfield (Alpha) [PC (Microsoft Windows)]
+DTSTART;VALUE=DATE:20241010
+DTSTAMP:20260703T033222Z
+UID:welcome-to-elderfield-Alpha-2024-10-10@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/welcome-to-elderfield
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Welcome to Elderfield (Full Release) [PC (Microsoft Windows)]
+DTSTART;VALUE=DATE:20261231
+DTSTAMP:20260703T033222Z
+UID:welcome-to-elderfield-Full Release-2026-12-31@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/welcome-to-elderfield
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shutter Story (Full Release) [PC (Microsoft Windows)]
+DTSTART;VALUE=DATE:20260930
+DTSTAMP:20260703T033222Z
+UID:shutter-story-Full Release-2026-09-30@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/shutter-story
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screenbound (Full Release) [PC (Microsoft Windows)\, PlayStation 5
+ \, Xbox Series X|S]
+DTSTART;VALUE=DATE:20260910
+DTSTAMP:20260703T033222Z
+UID:screenbound-Full Release-2026-09-10@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/screenbound
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Edge of Memories (Full Release) [PC (Microsoft Windows)\, PlayStat
+ ion 5\, Xbox Series X|S]
+DTSTART;VALUE=DATE:20261231
+DTSTAMP:20260703T033222Z
+UID:edge-of-memories-Full Release-2026-12-31@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/edge-of-memories
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Empulse (Early Access) [PC (Microsoft Windows)\, PlayStation 5\, X
+ box Series X|S]
+DTSTART;VALUE=DATE:20260624
+DTSTAMP:20260703T033222Z
+UID:empulse-Early Access-2026-06-24@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/empulse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Adventures of Elliot: The Millennium Tales (Full Release) [Nin
+ tendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+DTSTART;VALUE=DATE:20260618
+DTSTAMP:20260703T033222Z
+UID:the-adventures-of-elliot-the-millennium-tales-Full Release-2026-06-18@
+ pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/the-adventures-of-elliot-the-millen
+ nium-tales
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EVE Vanguard (Full Release) [PC (Microsoft Windows)]
+DTSTART;VALUE=DATE:20260930
+DTSTAMP:20260703T033222Z
+UID:eve-vanguard-Full Release-2026-09-30@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/eve-vanguard
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leafy Corner (Full Release) [Mac\, Nintendo Switch\, PC (Microsoft
+  Windows)\, PlayStation 5\, Xbox One\, Xbox Series X|S]
+DTSTART;VALUE=DATE:20260730
+DTSTAMP:20260703T033222Z
+UID:leafy-corner-Full Release-2026-07-30@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/leafy-corner
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moss: The Forgotten Relic (Full Release) [Nintendo Switch\, Ninten
+ do Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+DTSTART;VALUE=DATE:20260716
+DTSTAMP:20260703T033222Z
+UID:moss-the-forgotten-relic-Full Release-2026-07-16@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/moss-the-forgotten-relic
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dawn of Defense (Beta) [PC (Microsoft Windows)]
+DTSTART;VALUE=DATE:20241003
+DTSTAMP:20260703T033222Z
+UID:dawn-of-defense-Beta-2024-10-03@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/dawn-of-defense
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dawn of Defense (Full Release) [PC (Microsoft Windows)]
+DTSTART;VALUE=DATE:20261231
+DTSTAMP:20260703T033222Z
+UID:dawn-of-defense-Full Release-2026-12-31@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/dawn-of-defense
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gurei (Full Release) [Nintendo Switch\, PC (Microsoft Windows)\, P
+ layStation 5]
+DTSTART;VALUE=DATE:20260723
+DTSTAMP:20260703T033222Z
+UID:gurei-Full Release-2026-07-23@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/gurei
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lifted (Full Release) [Nintendo Switch 2\, PlayStation 5]
+DTSTART;VALUE=DATE:20260930
+DTSTAMP:20260703T033222Z
+UID:lifted-Full Release-2026-09-30@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/lifted
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lifted (Full Release) [Linux\, Mac\, PC (Microsoft Windows)]
+DTSTART;VALUE=DATE:20260722
+DTSTAMP:20260703T033222Z
+UID:lifted-Full Release-2026-07-22@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/lifted
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fading Echo (Full Release) [PlayStation 5\, Xbox Series X|S]
+DTSTART;VALUE=DATE:20260930
+DTSTAMP:20260703T033222Z
+UID:fading-echo-Full Release-2026-09-30@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/fading-echo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fading Echo (Full Release) [PC (Microsoft Windows)]
+DTSTART;VALUE=DATE:20260721
+DTSTAMP:20260703T033222Z
+UID:fading-echo-Full Release-2026-07-21@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/fading-echo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nocturnal II (Full Release) [Nintendo Switch\, PC (Microsoft Windo
+ ws)]
+DTSTART;VALUE=DATE:20260630
+DTSTAMP:20260703T033222Z
+UID:nocturnal-ii-Full Release-2026-06-30@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/nocturnal-ii
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:An Eggstremely Hard Game (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260724
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:an-eggstremely-hard-game-Full Release-2026-07-24@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/an-eggstremely-hard-game
 END:VEVENT
@@ -1291,23 +1284,90 @@ BEGIN:VEVENT
 SUMMARY:Order of the Sinking Star (Full Release) [Nintendo Switch 2\, PC (
  Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:order-of-the-sinking-star-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/order-of-the-sinking-star
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mexican Ninja (Full Release) [PC (Microsoft Windows)\, PlayStation
+  4\, PlayStation 5\, Xbox One\, Xbox Series X|S]
+DTSTART;VALUE=DATE:20261231
+DTSTAMP:20260703T033222Z
+UID:mexican-ninja-Full Release-2026-12-31@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/mexican-ninja
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don't Fret (Full Release) [PC (Microsoft Windows)\, PlayStation 5\
+ , Xbox Series X|S]
+DTSTART;VALUE=DATE:20261001
+DTSTAMP:20260703T033222Z
+UID:dont-fret-Full Release-2026-10-01@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/dont-fret
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tropico 7 (Full Release) [PC (Microsoft Windows)\, PlayStation 5\,
   Xbox One\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:tropico-7-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/tropico-7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:D-topia (Full Release) [Nintendo Switch\, Nintendo Switch 2\, PC (
+ Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
+DTSTART;VALUE=DATE:20260714
+DTSTAMP:20260703T033222Z
+UID:d-topia-Full Release-2026-07-14@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/d-topia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Metal Gear Solid 4: Guns of the Patriots - Master Collection Versi
+ on (Full Release) [Nintendo Switch\, Nintendo Switch 2\, PC (Microsoft Win
+ dows)\, PlayStation 5\, Xbox Series X|S]
+DTSTART;VALUE=DATE:20260827
+DTSTAMP:20260703T033222Z
+UID:metal-gear-solid-4-guns-of-the-patriots-master-collection-version-Full
+  Release-2026-08-27@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/metal-gear-solid-4-guns-of-the-patr
+ iots-master-collection-version
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BrokenLore: Don't Lie (Full Release) [PC (Microsoft Windows)\, Pla
+ yStation 5\, Xbox Series X|S]
+DTSTART;VALUE=DATE:20260910
+DTSTAMP:20260703T033222Z
+UID:brokenlore-dont-lie-Full Release-2026-09-10@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/brokenlore-dont-lie
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crushed in Time (Full Release) [PC (Microsoft Windows)]
+DTSTART;VALUE=DATE:20260610
+DTSTAMP:20260703T033222Z
+UID:crushed-in-time-Full Release-2026-06-10@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/crushed-in-time
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Alighieri Circle: Dante’s Bloodline (Full Release) [PC (Micr
+ osoft Windows)]
+DTSTART;VALUE=DATE:20260910
+DTSTAMP:20260703T033222Z
+UID:the-alighieri-circle-dantes-bloodline-Full Release-2026-09-10@pankoman
+ n.github.io
+DESCRIPTION:https://www.igdb.com/games/the-alighieri-circle-dantes-bloodli
+ ne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Copa City (Full Release) [PC (Microsoft Windows)]
+DTSTART;VALUE=DATE:20260616
+DTSTAMP:20260703T033222Z
+UID:copa-city-Full Release-2026-06-16@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/copa-city
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wo Long 2: Wings of Ember (Full Release) [Nintendo Switch 2\, PC (
  Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20270331
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:wo-long-2-wings-of-ember-Full Release-2027-03-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/wo-long-2-wings-of-ember
 END:VEVENT
@@ -1315,7 +1375,7 @@ BEGIN:VEVENT
 SUMMARY:Raev: Kingdom on the Distant Shores (Full Release) [PC (Microsoft 
  Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:raev-kingdom-on-the-distant-shores-Full Release-2026-12-31@pankomann.g
  ithub.io
 DESCRIPTION:https://www.igdb.com/games/raev-kingdom-on-the-distant-shores
@@ -1324,15 +1384,24 @@ BEGIN:VEVENT
 SUMMARY:Hot Wheels Infinite Rush (Full Release) [Nintendo Switch 2\, PC (M
  icrosoft Windows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260924
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:hot-wheels-infinite-rush-Full Release-2026-09-24@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/hot-wheels-infinite-rush
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tavern Talk Stories: Dreamwalker (Full Release) [Mac\, Nintendo Sw
+ itch\, PC (Microsoft Windows)]
+DTSTART;VALUE=DATE:20260609
+DTSTAMP:20260703T033222Z
+UID:tavern-talk-stories-dreamwalker-Full Release-2026-06-09@pankomann.gith
+ ub.io
+DESCRIPTION:https://www.igdb.com/games/tavern-talk-stories-dreamwalker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bogdan's Cross (Full Release) [Linux\, Nintendo Switch\, PC (Micro
  soft Windows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:bogdans-cross-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/bogdans-cross
 END:VEVENT
@@ -1340,7 +1409,7 @@ BEGIN:VEVENT
 SUMMARY:Dark Mass (Full Release) [PC (Microsoft Windows)\, PlayStation 5\,
   Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:dark-mass-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/dark-mass
 END:VEVENT
@@ -1348,21 +1417,28 @@ BEGIN:VEVENT
 SUMMARY:Blighted (Full Release) [Nintendo Switch 2\, PC (Microsoft Windows
  )]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:blighted-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/blighted
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Burglin' Gnomes (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260610
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:burglin-gnomes-Full Release-2026-06-10@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/burglin-gnomes
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tormentum II (Full Release) [Linux\, Mac\, PC (Microsoft Windows)]
+DTSTART;VALUE=DATE:20260723
+DTSTAMP:20260703T033222Z
+UID:tormentum-ii-Full Release-2026-07-23@pankomann.github.io
+DESCRIPTION:https://www.igdb.com/games/tormentum-ii
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tukoni: Forest Keepers (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260930
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:tukoni-forest-keepers-Full Release-2026-09-30@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/tukoni-forest-keepers
 END:VEVENT
@@ -1370,7 +1446,7 @@ BEGIN:VEVENT
 SUMMARY:Over the Hill (Full Release) [PC (Microsoft Windows)\, Xbox Series
   X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:over-the-hill-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/over-the-hill
 END:VEVENT
@@ -1378,21 +1454,21 @@ BEGIN:VEVENT
 SUMMARY:Beastro (Full Release) [PC (Microsoft Windows)\, PlayStation 4\, P
  layStation 5\, Xbox One\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260611
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:beastro-Full Release-2026-06-11@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/beastro
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cosmic Fear (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260909
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:cosmic-fear-Full Release-2026-09-09@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/cosmic-fear
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dreadmoor (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:dreadmoor-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/dreadmoor
 END:VEVENT
@@ -1400,7 +1476,7 @@ BEGIN:VEVENT
 SUMMARY:Agefield High: Rock the School (Full Release) [PlayStation 5\, Xbo
  x Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:agefield-high-rock-the-school-Full Release-2026-12-31@pankomann.github
  .io
 DESCRIPTION:https://www.igdb.com/games/agefield-high-rock-the-school
@@ -1409,7 +1485,7 @@ BEGIN:VEVENT
 SUMMARY:Agefield High: Rock the School (Full Release) [PC (Microsoft Windo
  ws)]
 DTSTART;VALUE=DATE:20260930
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:agefield-high-rock-the-school-Full Release-2026-09-30@pankomann.github
  .io
 DESCRIPTION:https://www.igdb.com/games/agefield-high-rock-the-school
@@ -1418,28 +1494,28 @@ BEGIN:VEVENT
 SUMMARY:Tower of Tears (Full Release) [Linux\, Mac\, PC (Microsoft Windows
  )]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:tower-of-tears-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/tower-of-tears
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prologue: Go Wayback! (Early Access) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20251120
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:prologue-go-wayback-Early Access-2025-11-20@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/prologue-go-wayback
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prologue: Go Wayback! (Beta) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20250815
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:prologue-go-wayback-Beta-2025-08-15@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/prologue-go-wayback
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prologue: Go Wayback! (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260617
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:prologue-go-wayback-Full Release-2026-06-17@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/prologue-go-wayback
 END:VEVENT
@@ -1447,7 +1523,7 @@ BEGIN:VEVENT
 SUMMARY:Metro 2039 (Full Release) [PC (Microsoft Windows)\, PlayStation 5\
  , Xbox Series X|S]
 DTSTART;VALUE=DATE:20270201
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:metro-2039-Full Release-2027-02-01@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/metro-2039
 END:VEVENT
@@ -1455,7 +1531,7 @@ BEGIN:VEVENT
 SUMMARY:Transport Fever 3 (Full Release) [Linux\, Mac\, PC (Microsoft Wind
  ows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:transport-fever-3-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/transport-fever-3
 END:VEVENT
@@ -1463,35 +1539,35 @@ BEGIN:VEVENT
 SUMMARY:Spyro: A Realm Beyond (Full Release) [Nintendo Switch 2\, PC (Micr
  osoft Windows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20270630
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:spyro-a-realm-beyond-Full Release-2027-06-30@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/spyro-a-realm-beyond
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lost in the Roots (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260930
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:lost-in-the-roots-Full Release-2026-09-30@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/lost-in-the-roots
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dragon Shelter (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260924
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:dragon-shelter-Full Release-2026-09-24@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/dragon-shelter
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bloody Hell Hotel (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:bloody-hell-hotel-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/bloody-hell-hotel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tom the Postgirl (Full Release) [Mac\, PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:tom-the-postgirl-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/tom-the-postgirl
 END:VEVENT
@@ -1500,7 +1576,7 @@ SUMMARY:Little Nightmares III: The Backstage (Full Release) [Nintendo Swit
  ch\, Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 4\, PlayStat
  ion 5\, Xbox One\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260612
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:little-nightmares-iii-the-backstage-Full Release-2026-06-12@pankomann.
  github.io
 DESCRIPTION:https://www.igdb.com/games/little-nightmares-iii-the-backstage
@@ -1508,7 +1584,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Momento (Full Release) [Mac\, PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260606
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:momento-Full Release-2026-06-06@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/momento
 END:VEVENT
@@ -1516,7 +1592,7 @@ BEGIN:VEVENT
 SUMMARY:Momento (Full Release) [Nintendo Switch\, Nintendo Switch 2\, Play
  Station 5]
 DTSTART;VALUE=DATE:20260630
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:momento-Full Release-2026-06-30@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/momento
 END:VEVENT
@@ -1524,7 +1600,7 @@ BEGIN:VEVENT
 SUMMARY:Tempus Vitae (Full Release) [PC (Microsoft Windows)\, PlayStation 
  5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20270630
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:tempus-vitae-Full Release-2027-06-30@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/tempus-vitae
 END:VEVENT
@@ -1533,7 +1609,7 @@ SUMMARY:Tales of Eternia: Remastered (Full Release) [Nintendo Switch\, Nin
  tendo Switch 2\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, 
  Xbox Series X|S]
 DTSTART;VALUE=DATE:20261016
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:tales-of-eternia-remastered-Full Release-2026-10-16@pankomann.github.i
  o
 DESCRIPTION:https://www.igdb.com/games/tales-of-eternia-remastered
@@ -1542,7 +1618,7 @@ BEGIN:VEVENT
 SUMMARY:The Sinking City 2 (Full Release) [PC (Microsoft Windows)\, PlaySt
  ation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260818
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:the-sinking-city-2-Full Release-2026-08-18@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/the-sinking-city-2
 END:VEVENT
@@ -1550,7 +1626,7 @@ BEGIN:VEVENT
 SUMMARY:Denshattack! (Full Release) [Nintendo Switch 2\, PC (Microsoft Win
  dows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260715
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:denshattack-Full Release-2026-07-15@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/denshattack
 END:VEVENT
@@ -1558,7 +1634,7 @@ BEGIN:VEVENT
 SUMMARY:Silver Pines (Full Release) [Nintendo Switch\, PC (Microsoft Windo
  ws)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261008
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:silver-pines-Full Release-2026-10-08@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/silver-pines
 END:VEVENT
@@ -1566,7 +1642,7 @@ BEGIN:VEVENT
 SUMMARY:RockBeasts (Full Release) [Nintendo Switch\, PlayStation 5\, Xbox 
  Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:rockbeasts-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/rockbeasts
 END:VEVENT
@@ -1574,7 +1650,7 @@ BEGIN:VEVENT
 SUMMARY:SpeedRunners 2: King of Speed (Full Release) [Nintendo Switch\, PC
   (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260701
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:speedrunners-2-king-of-speed-Full Release-2026-07-01@pankomann.github.
  io
 DESCRIPTION:https://www.igdb.com/games/speedrunners-2-king-of-speed
@@ -1582,14 +1658,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rubinite (Full Release) [Mac\, PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260723
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:rubinite-Full Release-2026-07-23@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/rubinite
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elden Ring: Tarnished Edition (Full Release) [Nintendo Switch 2]
 DTSTART;VALUE=DATE:20260828
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:elden-ring-tarnished-edition-Full Release-2026-08-28@pankomann.github.
  io
 DESCRIPTION:https://www.igdb.com/games/elden-ring-tarnished-edition
@@ -1597,7 +1673,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Voidling Bound (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260609
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:voidling-bound--1-Full Release-2026-06-09@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/voidling-bound--1
 END:VEVENT
@@ -1605,7 +1681,7 @@ BEGIN:VEVENT
 SUMMARY:Mistfall Hunter (Full Release) [PC (Microsoft Windows)\, PlayStati
  on 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260729
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:mistfall-hunter-Full Release-2026-07-29@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/mistfall-hunter
 END:VEVENT
@@ -1613,7 +1689,7 @@ BEGIN:VEVENT
 SUMMARY:Tomb Raider: Legacy of Atlantis (Full Release) [Nintendo Switch 2\
  , PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20270212
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:tomb-raider-legacy-of-atlantis-Full Release-2027-02-12@pankomann.githu
  b.io
 DESCRIPTION:https://www.igdb.com/games/tomb-raider-legacy-of-atlantis
@@ -1621,7 +1697,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sublustrum (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:sublustrum-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/sublustrum
 END:VEVENT
@@ -1629,7 +1705,7 @@ BEGIN:VEVENT
 SUMMARY:The 7th Guest Remake (Full Release) [Nintendo Switch\, PC (Microso
  ft Windows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260604
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:the-7th-guest-remake-Full Release-2026-06-04@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/the-7th-guest-remake
 END:VEVENT
@@ -1637,7 +1713,7 @@ BEGIN:VEVENT
 SUMMARY:We Were Here Tomorrow (Full Release) [PC (Microsoft Windows)\, Pla
  yStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:we-were-here-tomorrow-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/we-were-here-tomorrow
 END:VEVENT
@@ -1645,14 +1721,14 @@ BEGIN:VEVENT
 SUMMARY:Moonlight Peaks (Full Release) [Mac\, Nintendo Switch\, Nintendo S
  witch 2\, PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260707
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:moonlight-peaks-Full Release-2026-07-07@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/moonlight-peaks
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Demon Spore (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260930
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:demon-spore-Full Release-2026-09-30@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/demon-spore
 END:VEVENT
@@ -1660,7 +1736,7 @@ BEGIN:VEVENT
 SUMMARY:33 Immortals (Early Access) [PC (Microsoft Windows)\, Xbox Series 
  X|S]
 DTSTART;VALUE=DATE:20250318
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:33-immortals-Early Access-2025-03-18@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/33-immortals
 END:VEVENT
@@ -1668,7 +1744,7 @@ BEGIN:VEVENT
 SUMMARY:33 Immortals (Full Release) [PC (Microsoft Windows)\, Xbox Series 
  X|S]
 DTSTART;VALUE=DATE:20260610
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:33-immortals-Full Release-2026-06-10@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/33-immortals
 END:VEVENT
@@ -1676,7 +1752,7 @@ BEGIN:VEVENT
 SUMMARY:The Road of Dust and Sorrow (Full Release) [Nintendo Switch\, Nint
  endo Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:the-road-of-dust-and-sorrow-Full Release-2026-12-31@pankomann.github.i
  o
 DESCRIPTION:https://www.igdb.com/games/the-road-of-dust-and-sorrow
@@ -1684,22 +1760,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trees Hate You (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:trees-hate-you-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/trees-hate-you
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Don't Fret (Full Release) [PC (Microsoft Windows)\, PlayStation 5\
- , Xbox Series X|S]
-DTSTART;VALUE=DATE:20261001
-DTSTAMP:20260702T035052Z
-UID:dont-fret-Full Release-2026-10-01@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/dont-fret
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AGX GP (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260930
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:agx-gp-Full Release-2026-09-30@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/agx-gp
 END:VEVENT
@@ -1707,7 +1775,7 @@ BEGIN:VEVENT
 SUMMARY:Demi and the Fractured Dream (Full Release) [Nintendo Switch\, Nin
  tendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20270201
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:demi-and-the-fractured-dream-Full Release-2027-02-01@pankomann.github.
  io
 DESCRIPTION:https://www.igdb.com/games/demi-and-the-fractured-dream
@@ -1716,14 +1784,14 @@ BEGIN:VEVENT
 SUMMARY:Hela: Of Mice & Magic (Full Release) [Nintendo Switch 2\, PC (Micr
  osoft Windows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:hela-of-mice-and-magic-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/hela-of-mice-and-magic
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wanderburg (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:wanderburg-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/wanderburg
 END:VEVENT
@@ -1731,7 +1799,7 @@ BEGIN:VEVENT
 SUMMARY:Rivage (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xb
  ox Series X|S]
 DTSTART;VALUE=DATE:20260813
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:rivage-Full Release-2026-08-13@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/rivage
 END:VEVENT
@@ -1739,7 +1807,7 @@ BEGIN:VEVENT
 SUMMARY:The Relic: First Guardian (Full Release) [Nintendo Switch 2\, Xbox
   Series X|S]
 DTSTART;VALUE=DATE:20260930
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:the-relic-first-guardian-Full Release-2026-09-30@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/the-relic-first-guardian
 END:VEVENT
@@ -1747,14 +1815,14 @@ BEGIN:VEVENT
 SUMMARY:The Relic: First Guardian (Full Release) [PC (Microsoft Windows)\,
   PlayStation 5]
 DTSTART;VALUE=DATE:20260731
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:the-relic-first-guardian-Full Release-2026-07-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/the-relic-first-guardian
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tiny Delivery (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260930
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:tiny-delivery-Full Release-2026-09-30@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/tiny-delivery
 END:VEVENT
@@ -1762,7 +1830,7 @@ BEGIN:VEVENT
 SUMMARY:About Fishing (Full Release) [PC (Microsoft Windows)\, PlayStation
   5]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:about-fishing-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/about-fishing
 END:VEVENT
@@ -1770,14 +1838,14 @@ BEGIN:VEVENT
 SUMMARY:UN:Me (Full Release) [Nintendo Switch 2\, PC (Microsoft Windows)\,
   PlayStation 5]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:un-me-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/un-me
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arms of God (Early Access) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260608
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:arms-of-god-Early Access-2026-06-08@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/arms-of-god
 END:VEVENT
@@ -1785,21 +1853,21 @@ BEGIN:VEVENT
 SUMMARY:Calx (Full Release) [Nintendo Switch\, PlayStation 5\, Xbox Series
   X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:calx-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/calx
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Calx (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261008
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:calx-Full Release-2026-10-08@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/calx
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:.45 Parabellum Bloodhound (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260930
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:dot-45-parabellum-bloodhound-Full Release-2026-09-30@pankomann.github.
  io
 DESCRIPTION:https://www.igdb.com/games/dot-45-parabellum-bloodhound
@@ -1808,7 +1876,7 @@ BEGIN:VEVENT
 SUMMARY:Company of Heroes: Definitive Edition (Full Release) [PC (Microsof
  t Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:company-of-heroes-definitive-edition-Full Release-2026-12-31@pankomann
  .github.io
 DESCRIPTION:https://www.igdb.com/games/company-of-heroes-definitive-editio
@@ -1818,14 +1886,14 @@ BEGIN:VEVENT
 SUMMARY:Wielders of the Essence (Full Release) [Mac\, PC (Microsoft Window
  s)]
 DTSTART;VALUE=DATE:20261105
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:wielders-of-the-essence-Full Release-2026-11-05@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/wielders-of-the-essence
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DragonSword: Awakening (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260722
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:dragonsword-awakening-Full Release-2026-07-22@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/dragonsword-awakening
 END:VEVENT
@@ -1833,14 +1901,14 @@ BEGIN:VEVENT
 SUMMARY:Golf With Your Friends 2 (Full Release) [Nintendo Switch 2\, PC (M
  icrosoft Windows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:golf-with-your-friends-2-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/golf-with-your-friends-2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blackwood (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260930
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:blackwood-Full Release-2026-09-30@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/blackwood
 END:VEVENT
@@ -1848,7 +1916,7 @@ BEGIN:VEVENT
 SUMMARY:NBA The Run (Full Release) [PC (Microsoft Windows)\, PlayStation 5
  \, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260609
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:nba-the-run--1-Full Release-2026-06-09@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/nba-the-run--1
 END:VEVENT
@@ -1857,7 +1925,7 @@ SUMMARY:Starseeker: Astroneer Expeditions (Full Release) [Nintendo Switch\
  , Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series
   X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:starseeker-astroneer-expeditions-Full Release-2026-12-31@pankomann.git
  hub.io
 DESCRIPTION:https://www.igdb.com/games/starseeker-astroneer-expeditions
@@ -1866,7 +1934,7 @@ BEGIN:VEVENT
 SUMMARY:Starseeker: Astroneer Expeditions (Beta) [PC (Microsoft Windows)\,
   PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260430
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:starseeker-astroneer-expeditions-Beta-2026-04-30@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/starseeker-astroneer-expeditions
 END:VEVENT
@@ -1874,24 +1942,16 @@ BEGIN:VEVENT
 SUMMARY:Starseeker: Astroneer Expeditions (Early Access) [Nintendo Switch 
  2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260611
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:starseeker-astroneer-expeditions-Early Access-2026-06-11@pankomann.git
  hub.io
 DESCRIPTION:https://www.igdb.com/games/starseeker-astroneer-expeditions
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Planet Zoo 2 (Full Release) [PC (Microsoft Windows)\, PlayStation 
- 5\, Xbox Series X|S]
-DTSTART;VALUE=DATE:20261013
-DTSTAMP:20260702T035052Z
-UID:planet-zoo-2-Full Release-2026-10-13@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/planet-zoo-2
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Infinitesimals (Full Release) [PC (Microsoft Windows)\, PlayStatio
  n 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:infinitesimals-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/infinitesimals
 END:VEVENT
@@ -1899,7 +1959,7 @@ BEGIN:VEVENT
 SUMMARY:Clive Barker's Hellraiser: Revival (Full Release) [PC (Microsoft W
  indows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261008
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:clive-barkers-hellraiser-revival-Full Release-2026-10-08@pankomann.git
  hub.io
 DESCRIPTION:https://www.igdb.com/games/clive-barkers-hellraiser-revival
@@ -1908,7 +1968,7 @@ BEGIN:VEVENT
 SUMMARY:Armatus (Full Release) [Nintendo Switch 2\, PC (Microsoft Windows)
  \, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20270331
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:armatus-Full Release-2027-03-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/armatus
 END:VEVENT
@@ -1917,7 +1977,7 @@ SUMMARY:Dave the Diver: In the Jungle (Full Release) [Mac\, Nintendo Switc
  h\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5\, Xbox Series X
  |S]
 DTSTART;VALUE=DATE:20260618
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:dave-the-diver-in-the-jungle-Full Release-2026-06-18@pankomann.github.
  io
 DESCRIPTION:https://www.igdb.com/games/dave-the-diver-in-the-jungle
@@ -1926,14 +1986,14 @@ BEGIN:VEVENT
 SUMMARY:Forever Ago (Full Release) [Nintendo Switch 2\, PC (Microsoft Wind
  ows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261008
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:forever-ago-Full Release-2026-10-08@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/forever-ago
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Puni the Florist (Full Release) [Mac\, PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260608
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:puni-the-florist-Full Release-2026-06-08@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/puni-the-florist
 END:VEVENT
@@ -1941,7 +2001,7 @@ BEGIN:VEVENT
 SUMMARY:Clutch (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xb
  ox Series X|S]
 DTSTART;VALUE=DATE:20270331
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:clutch--1-Full Release-2027-03-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/clutch--1
 END:VEVENT
@@ -1949,14 +2009,14 @@ BEGIN:VEVENT
 SUMMARY:Star Wars Zero Company (Full Release) [PC (Microsoft Windows)\, Pl
  ayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260827
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:star-wars-zero-company-Full Release-2026-08-27@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/star-wars-zero-company
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Breathedge 2 (Early Access) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260801
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:breathedge-2-Early Access-2026-08-01@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/breathedge-2
 END:VEVENT
@@ -1964,21 +2024,21 @@ BEGIN:VEVENT
 SUMMARY:Milki Delivery (Full Release) [Linux\, Mac\, PC (Microsoft Windows
  )]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:milki-delivery-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/milki-delivery
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ragnarok: The New World (Beta) [Android\, PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20250828
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:ragnarok-the-new-world-Beta-2025-08-28@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/ragnarok-the-new-world
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ragnarok: The New World (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260716
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:ragnarok-the-new-world-Full Release-2026-07-16@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/ragnarok-the-new-world
 END:VEVENT
@@ -1986,14 +2046,14 @@ BEGIN:VEVENT
 SUMMARY:The Mermaid Mask (Full Release) [Mac\, Nintendo Switch\, Nintendo 
  Switch 2\, PC (Microsoft Windows)\, PlayStation 5]
 DTSTART;VALUE=DATE:20260716
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:the-mermaid-mask--1-Full Release-2026-07-16@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/the-mermaid-mask--1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hark the Ghoul (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:hark-the-ghoul-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/hark-the-ghoul
 END:VEVENT
@@ -2001,7 +2061,7 @@ BEGIN:VEVENT
 SUMMARY:Cozy Game Restoration (Full Release) [Linux\, Mac\, PC (Microsoft 
  Windows)]
 DTSTART;VALUE=DATE:20260924
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:cozy-game-restoration-Full Release-2026-09-24@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/cozy-game-restoration
 END:VEVENT
@@ -2009,7 +2069,7 @@ BEGIN:VEVENT
 SUMMARY:Well Dweller (Full Release) [Nintendo Switch\, PC (Microsoft Windo
  ws)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:well-dweller-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/well-dweller
 END:VEVENT
@@ -2017,7 +2077,7 @@ BEGIN:VEVENT
 SUMMARY:Danganronpa 2x2 (Full Release) [Nintendo Switch\, Nintendo Switch 
  2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:danganronpa-2x2-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/danganronpa-2x2
 END:VEVENT
@@ -2025,7 +2085,7 @@ BEGIN:VEVENT
 SUMMARY:Graveyard Keeper II (Full Release) [Nintendo Switch\, Nintendo Swi
  tch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:graveyard-keeper-ii-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/graveyard-keeper-ii
 END:VEVENT
@@ -2033,7 +2093,7 @@ BEGIN:VEVENT
 SUMMARY:Bloodstained: The Scarlet Engagement (Full Release) [PC (Microsoft
   Windows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:bloodstained-the-scarlet-engagement-Full Release-2026-12-31@pankomann.
  github.io
 DESCRIPTION:https://www.igdb.com/games/bloodstained-the-scarlet-engagement
@@ -2042,7 +2102,7 @@ BEGIN:VEVENT
 SUMMARY:Servant of the Lake (Full Release) [Android\, Mac\, PC (Microsoft 
  Windows)\, iOS]
 DTSTART;VALUE=DATE:20260813
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:servant-of-the-lake-Full Release-2026-08-13@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/servant-of-the-lake
 END:VEVENT
@@ -2050,7 +2110,7 @@ BEGIN:VEVENT
 SUMMARY:The Expanse: Osiris Reborn (Full Release) [PC (Microsoft Windows)\
  , PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20270630
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:the-expanse-osiris-reborn-Full Release-2027-06-30@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/the-expanse-osiris-reborn
 END:VEVENT
@@ -2058,7 +2118,7 @@ BEGIN:VEVENT
 SUMMARY:The Expanse: Osiris Reborn (Beta) [PC (Microsoft Windows)\, PlaySt
  ation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260422
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:the-expanse-osiris-reborn-Beta-2026-04-22@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/the-expanse-osiris-reborn
 END:VEVENT
@@ -2066,7 +2126,7 @@ BEGIN:VEVENT
 SUMMARY:Persona 4 Revival (Full Release) [PC (Microsoft Windows)\, PlaySta
  tion 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20270218
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:persona-4-revival-Full Release-2027-02-18@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/persona-4-revival
 END:VEVENT
@@ -2074,21 +2134,21 @@ BEGIN:VEVENT
 SUMMARY:Join Us (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, X
  box Series X|S]
 DTSTART;VALUE=DATE:20270301
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:join-us-Full Release-2027-03-01@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/join-us
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Casualties: Unknown (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:casualties-unknown-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/casualties-unknown
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Enginefall (Full Release) [Linux\, PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:enginefall-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/enginefall
 END:VEVENT
@@ -2097,7 +2157,7 @@ SUMMARY:Metal Gear Solid Master Collection: Volume 2 (Full Release) [Ninte
  ndo Switch\, Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, 
  Xbox Series X|S]
 DTSTART;VALUE=DATE:20260827
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:metal-gear-solid-master-collection-volume-2--1-Full Release-2026-08-27
  @pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/metal-gear-solid-master-collection-
@@ -2107,7 +2167,7 @@ BEGIN:VEVENT
 SUMMARY:Star Wars: Galactic Racer (Full Release) [PC (Microsoft Windows)\,
   PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261006
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:star-wars-galactic-racer-Full Release-2026-10-06@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/star-wars-galactic-racer
 END:VEVENT
@@ -2115,42 +2175,42 @@ BEGIN:VEVENT
 SUMMARY:Paperhead (Full Release) [PC (Microsoft Windows)\, PlayStation 5\,
   Xbox Series X|S]
 DTSTART;VALUE=DATE:20260918
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:paperhead-Full Release-2026-09-18@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/paperhead
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cursemark (Early Access) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260608
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:cursemark-Early Access-2026-06-08@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/cursemark
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Bornless (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:the-bornless-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/the-bornless
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Loftia (Alpha) [Mac\, PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20241213
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:loftia-Alpha-2024-12-13@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/loftia
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Loftia (Beta) [Mac\, PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260422
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:loftia-Beta-2026-04-22@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/loftia
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Loftia (Full Release) [Mac\, PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:loftia-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/loftia
 END:VEVENT
@@ -2158,7 +2218,7 @@ BEGIN:VEVENT
 SUMMARY:Corpse Party II: Darkness Distortion (Full Release) [Nintendo Swit
  ch\, PC (Microsoft Windows)\, PlayStation 4\, PlayStation 5]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:corpse-party-ii-darkness-distortion-Full Release-2026-12-31@pankomann.
  github.io
 DESCRIPTION:https://www.igdb.com/games/corpse-party-ii-darkness-distortion
@@ -2166,7 +2226,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Am I Nima (Full Release) [Mac\, PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261008
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:am-i-nima-Full Release-2026-10-08@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/am-i-nima
 END:VEVENT
@@ -2174,7 +2234,7 @@ BEGIN:VEVENT
 SUMMARY:Road Kings (Full Release) [PC (Microsoft Windows)\, PlayStation 5\
  , Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:road-kings-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/road-kings
 END:VEVENT
@@ -2182,7 +2242,7 @@ BEGIN:VEVENT
 SUMMARY:Wild Blue Skies (Full Release) [PC (Microsoft Windows)\, PlayStati
  on 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260813
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:wild-blue-skies-Full Release-2026-08-13@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/wild-blue-skies
 END:VEVENT
@@ -2190,7 +2250,7 @@ BEGIN:VEVENT
 SUMMARY:Final Fantasy VII Revelation (Full Release) [Nintendo Switch 2\, P
  C (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20270630
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:final-fantasy-vii-revelation-Full Release-2027-06-30@pankomann.github.
  io
 DESCRIPTION:https://www.igdb.com/games/final-fantasy-vii-revelation
@@ -2199,7 +2259,7 @@ BEGIN:VEVENT
 SUMMARY:Professor Layton and the New World of Steam (Full Release) [Ninten
  do Switch\, Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:professor-layton-and-the-new-world-of-steam-Full Release-2026-12-31@pa
  nkomann.github.io
 DESCRIPTION:https://www.igdb.com/games/professor-layton-and-the-new-world-
@@ -2209,7 +2269,7 @@ BEGIN:VEVENT
 SUMMARY:Woodo (Full Release) [Nintendo Switch\, Nintendo Switch 2\, PC (Mi
  crosoft Windows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260930
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:woodo-Full Release-2026-09-30@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/woodo
 END:VEVENT
@@ -2217,7 +2277,7 @@ BEGIN:VEVENT
 SUMMARY:Maseylia: Echoes of the Past (Full Release) [Linux\, PC (Microsoft
   Windows)]
 DTSTART;VALUE=DATE:20260619
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:maseylia-echoes-of-the-past-Full Release-2026-06-19@pankomann.github.i
  o
 DESCRIPTION:https://www.igdb.com/games/maseylia-echoes-of-the-past
@@ -2226,14 +2286,14 @@ BEGIN:VEVENT
 SUMMARY:Stranger Than Heaven (Full Release) [PC (Microsoft Windows)\, Play
  Station 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20270115
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:stranger-than-heaven-Full Release-2027-01-15@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/stranger-than-heaven
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Burn-9 (Full Release) [Linux\, Mac\, PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:burn-9-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/burn-9
 END:VEVENT
@@ -2241,7 +2301,7 @@ BEGIN:VEVENT
 SUMMARY:The Wolf Among Us Remastered (Full Release) [PC (Microsoft Windows
  )\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:the-wolf-among-us-remastered-Full Release-2026-12-31@pankomann.github.
  io
 DESCRIPTION:https://www.igdb.com/games/the-wolf-among-us-remastered
@@ -2249,7 +2309,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vexlands (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260930
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:vexlands-Full Release-2026-09-30@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/vexlands
 END:VEVENT
@@ -2257,7 +2317,7 @@ BEGIN:VEVENT
 SUMMARY:Kena: Scars of Kosmora (Full Release) [PC (Microsoft Windows)\, Pl
  ayStation 5]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:kena-scars-of-kosmora-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/kena-scars-of-kosmora
 END:VEVENT
@@ -2265,7 +2325,7 @@ BEGIN:VEVENT
 SUMMARY:Apple Crumble (Full Release) [Linux\, Mac\, PC (Microsoft Windows)
  ]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:apple-crumble-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/apple-crumble
 END:VEVENT
@@ -2273,7 +2333,7 @@ BEGIN:VEVENT
 SUMMARY:Mudang: Two Hearts (Full Release) [PC (Microsoft Windows)\, PlaySt
  ation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:mudang-two-hearts-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/mudang-two-hearts
 END:VEVENT
@@ -2281,7 +2341,7 @@ BEGIN:VEVENT
 SUMMARY:Spook-A-Boo (Full Release) [Nintendo Switch\, PC (Microsoft Window
  s)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:spook-a-boo-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/spook-a-boo
 END:VEVENT
@@ -2289,7 +2349,7 @@ BEGIN:VEVENT
 SUMMARY:Forsaken Realms: Vahrin's Call (Full Release) [PC (Microsoft Windo
  ws)]
 DTSTART;VALUE=DATE:20260727
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:forsaken-realms-vahrins-call-Full Release-2026-07-27@pankomann.github.
  io
 DESCRIPTION:https://www.igdb.com/games/forsaken-realms-vahrins-call
@@ -2298,7 +2358,7 @@ BEGIN:VEVENT
 SUMMARY:Deer & Boy (Full Release) [Nintendo Switch\, PC (Microsoft Windows
  )\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260623
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:deer-and-boy-Full Release-2026-06-23@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/deer-and-boy
 END:VEVENT
@@ -2306,33 +2366,15 @@ BEGIN:VEVENT
 SUMMARY:Grave Seasons (Full Release) [Nintendo Switch\, PC (Microsoft Wind
  ows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260814
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:grave-seasons-Full Release-2026-08-14@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/grave-seasons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Warhammer 40\,000: Dawn of War IV (Advanced Access) [PC (Microsoft
-  Windows)]
-DTSTART;VALUE=DATE:20260914
-DTSTAMP:20260702T035052Z
-UID:warhammer-40000-dawn-of-war-iv-Advanced Access-2026-09-14@pankomann.gi
- thub.io
-DESCRIPTION:https://www.igdb.com/games/warhammer-40000-dawn-of-war-iv
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Warhammer 40\,000: Dawn of War IV (Full Release) [PC (Microsoft Wi
- ndows)]
-DTSTART;VALUE=DATE:20260917
-DTSTAMP:20260702T035052Z
-UID:warhammer-40000-dawn-of-war-iv-Full Release-2026-09-17@pankomann.githu
- b.io
-DESCRIPTION:https://www.igdb.com/games/warhammer-40000-dawn-of-war-iv
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Big Walk (Full Release) [Mac\, Nintendo Switch 2\, PC (Microsoft W
  indows)\, PlayStation 5]
 DTSTART;VALUE=DATE:20260804
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:big-walk-Full Release-2026-08-04@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/big-walk
 END:VEVENT
@@ -2340,21 +2382,21 @@ BEGIN:VEVENT
 SUMMARY:Sea of Remnants (Full Release) [PC (Microsoft Windows)\, PlayStati
  on 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:sea-of-remnants-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/sea-of-remnants
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Corsair Cove (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260731
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:corsair-cove-Full Release-2026-07-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/corsair-cove
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Citystate Metropolis (Early Access) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260630
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:citystate-metropolis-Early Access-2026-06-30@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/citystate-metropolis
 END:VEVENT
@@ -2362,7 +2404,7 @@ BEGIN:VEVENT
 SUMMARY:Dead or Alive 6 Last Round (Full Release) [PC (Microsoft Windows)\
  , PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260625
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:dead-or-alive-6-last-round-Full Release-2026-06-25@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/dead-or-alive-6-last-round
 END:VEVENT
@@ -2370,7 +2412,7 @@ BEGIN:VEVENT
 SUMMARY:The Legend of Zelda: Ocarina of Time (Full Release) [Nintendo Swit
  ch 2]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:the-legend-of-zelda-ocarina-of-time--1-Full Release-2026-12-31@pankoma
  nn.github.io
 DESCRIPTION:https://www.igdb.com/games/the-legend-of-zelda-ocarina-of-time
@@ -2380,7 +2422,7 @@ BEGIN:VEVENT
 SUMMARY:Fable (Advanced Access) [PC (Microsoft Windows)\, PlayStation 5\, 
  Xbox Series X|S]
 DTSTART;VALUE=DATE:20270218
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:fable--1-Advanced Access-2027-02-18@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/fable--1
 END:VEVENT
@@ -2388,7 +2430,7 @@ BEGIN:VEVENT
 SUMMARY:Fable (Full Release) [PC (Microsoft Windows)\, PlayStation 5\, Xbo
  x Series X|S]
 DTSTART;VALUE=DATE:20270223
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:fable--1-Full Release-2027-02-23@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/fable--1
 END:VEVENT
@@ -2396,23 +2438,15 @@ BEGIN:VEVENT
 SUMMARY:Neverway (Full Release) [Linux\, Mac\, Nintendo Switch\, PC (Micro
  soft Windows)]
 DTSTART;VALUE=DATE:20261001
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:neverway-Full Release-2026-10-01@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/neverway
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Blood of Dawnwalker (Full Release) [PC (Microsoft Windows)\, P
- layStation 5\, Xbox Series X|S]
-DTSTART;VALUE=DATE:20260903
-DTSTAMP:20260702T035052Z
-UID:the-blood-of-dawnwalker-Full Release-2026-09-03@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/the-blood-of-dawnwalker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valor Mortis (Full Release) [PC (Microsoft Windows)\, PlayStation 
  5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261013
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:valor-mortis-Full Release-2026-10-13@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/valor-mortis
 END:VEVENT
@@ -2420,7 +2454,7 @@ BEGIN:VEVENT
 SUMMARY:Resonance: A Plague Tale Legacy (Full Release) [PC (Microsoft Wind
  ows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260827
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:resonance-a-plague-tale-legacy-Full Release-2026-08-27@pankomann.githu
  b.io
 DESCRIPTION:https://www.igdb.com/games/resonance-a-plague-tale-legacy
@@ -2429,7 +2463,7 @@ BEGIN:VEVENT
 SUMMARY:Minecraft Dungeons II (Full Release) [Nintendo Switch\, Nintendo S
  witch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260929
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:minecraft-dungeons-ii-Full Release-2026-09-29@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/minecraft-dungeons-ii
 END:VEVENT
@@ -2437,7 +2471,7 @@ BEGIN:VEVENT
 SUMMARY:Rayman Legends Retold (Full Release) [Nintendo Switch 2\, PC (Micr
  osoft Windows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261001
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:rayman-legends-retold-Full Release-2026-10-01@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/rayman-legends-retold
 END:VEVENT
@@ -2445,7 +2479,7 @@ BEGIN:VEVENT
 SUMMARY:There Are No Ghosts at the Grand (Full Release) [PC (Microsoft Win
  dows)\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:there-are-no-ghosts-at-the-grand-Full Release-2026-12-31@pankomann.git
  hub.io
 DESCRIPTION:https://www.igdb.com/games/there-are-no-ghosts-at-the-grand
@@ -2453,7 +2487,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Polyaris (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:polyaris-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/polyaris
 END:VEVENT
@@ -2461,29 +2495,21 @@ BEGIN:VEVENT
 SUMMARY:Ascend to Zero (Full Release) [PC (Microsoft Windows)\, Xbox Serie
  s X|S]
 DTSTART;VALUE=DATE:20260713
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:ascend-to-zero-Full Release-2026-07-13@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/ascend-to-zero
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Five Laps at Freddy's (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:five-laps-at-freddys-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/five-laps-at-freddys
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gurei (Full Release) [Nintendo Switch\, PC (Microsoft Windows)\, P
- layStation 5]
-DTSTART;VALUE=DATE:20260723
-DTSTAMP:20260702T035052Z
-UID:gurei-Full Release-2026-07-23@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/gurei
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtue and a Sledgehammer (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:virtue-and-a-sledgehammer-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/virtue-and-a-sledgehammer
 END:VEVENT
@@ -2491,7 +2517,7 @@ BEGIN:VEVENT
 SUMMARY:Trine 6: Together in Time (Full Release) [Nintendo Switch\, Ninten
  do Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260917
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:trine-6-together-in-time-Full Release-2026-09-17@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/trine-6-together-in-time
 END:VEVENT
@@ -2499,14 +2525,14 @@ BEGIN:VEVENT
 SUMMARY:Final Fantasy Resonance (Full Release) [Nintendo Switch\, Nintendo
   Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261022
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:final-fantasy-resonance-Full Release-2026-10-22@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/final-fantasy-resonance
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Witchspire (Early Access) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260610
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:witchspire-Early Access-2026-06-10@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/witchspire
 END:VEVENT
@@ -2514,7 +2540,7 @@ BEGIN:VEVENT
 SUMMARY:Solarpunk (Full Release) [Nintendo Switch 2\, PC (Microsoft Window
  s)\, PlayStation 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260608
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:solarpunk-Full Release-2026-06-08@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/solarpunk
 END:VEVENT
@@ -2522,37 +2548,29 @@ BEGIN:VEVENT
 SUMMARY:Mortal Shell II (Full Release) [PC (Microsoft Windows)\, PlayStati
  on 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:mortal-shell-ii-Full Release-2026-12-31@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/mortal-shell-ii
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mortal Shell II (Beta) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260606
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:mortal-shell-ii-Beta-2026-06-06@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/mortal-shell-ii
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onimusha: Way of the Sword (Full Release) [Nintendo Switch 2\, PC 
  (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S]
-DTSTART;VALUE=DATE:20260925
-DTSTAMP:20260702T035052Z
-UID:onimusha-way-of-the-sword-Full Release-2026-09-25@pankomann.github.io
+DTSTART;VALUE=DATE:20260904
+DTSTAMP:20260703T033222Z
+UID:onimusha-way-of-the-sword-Full Release-2026-09-04@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/onimusha-way-of-the-sword
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leafy Corner (Full Release) [Mac\, Nintendo Switch\, PC (Microsoft
-  Windows)\, PlayStation 5\, Xbox One\, Xbox Series X|S]
-DTSTART;VALUE=DATE:20260730
-DTSTAMP:20260702T035052Z
-UID:leafy-corner-Full Release-2026-07-30@pankomann.github.io
-DESCRIPTION:https://www.igdb.com/games/leafy-corner
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WheelMates (Full Release) [PC (Microsoft Windows)]
 DTSTART;VALUE=DATE:20260907
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:wheelmates-Full Release-2026-09-07@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/wheelmates
 END:VEVENT
@@ -2560,7 +2578,7 @@ BEGIN:VEVENT
 SUMMARY:Echoes of Aincrad (Full Release) [PC (Microsoft Windows)\, PlaySta
  tion 5\, Xbox Series X|S]
 DTSTART;VALUE=DATE:20260710
-DTSTAMP:20260702T035052Z
+DTSTAMP:20260703T033222Z
 UID:echoes-of-aincrad-Full Release-2026-07-10@pankomann.github.io
 DESCRIPTION:https://www.igdb.com/games/echoes-of-aincrad
 END:VEVENT
